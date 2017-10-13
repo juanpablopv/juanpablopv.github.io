@@ -1,0 +1,16 @@
+# Configuración del sitio
+url: ""
+baseurl: ""
+
+title: Jekyll Site
+description: >-
+  Sitio web personal estático hecho con Jekyll
+
+# Configuración de compilación
+markdown: kramdown
+permalink: pretty
+theme: minima
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed
