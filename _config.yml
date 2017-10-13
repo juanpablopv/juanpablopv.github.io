@@ -3,8 +3,13 @@ url: ""
 baseurl: ""
 
 title: Jekyll Site
+author: "2624789"
 description: >-
   Sitio web personal estático hecho con Jekyll
+keywords: "Jekyll, GitHub, Pages, Español, 2624789"
+license: "CC-BY-SA"
+
+github_username: "2624789"
 
 # Configuración de compilación
 markdown: kramdown
