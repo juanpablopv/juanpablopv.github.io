@@ -1,7 +1,54 @@
-<header class="site-header" role="banner">
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
 
-  <div class="wrapper">
-    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <div class="navbar-header page-scroll">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand page-scroll" href="#page-top">
+        <div class="brand">
+          <img alt="{{ site.title }}" src="{{ "/assets/favicon.ico" | relative_url }}" height="35px">
+          {{ site.title }}
+        </div>
+      </a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="hidden">
+          <a href="#page-top"></a>
+        </li>
+        <li>
+          <a class="page-scroll" href="#perfil">Perfil</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="#servicios">Servicios</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="#clientes">Clientes</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="#publicaciones">Publicaciones</a>
+        </li>
+        <li>
+          <a class="page-scroll" href="#contacto">Contacto</a>
+        </li>
+      </ul>
+    </div>
+
   </div>
+</nav>
 
+<!-- Header -->
+<header>
+  <div class="container">
+    <div class="intro-text">
+      <div class="intro-lead-in">Jekyll Site</div>
+      <div class="intro-heading">Welcome!</div>
+    </div>
+  </div>
 </header>
+
