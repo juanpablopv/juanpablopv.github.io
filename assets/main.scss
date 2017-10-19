@@ -10,7 +10,7 @@
 
 .navbar-default .navbar-brand {
   font-family: 'Josefin Sans', sans-serif;
-  color: #6EF74A;
+  color: #06F106;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -31,8 +31,8 @@
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #6EF74A;
-  background-color: #6EF74A;
+  border-color: #06F106;
+  background-color: #06F106;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -41,7 +41,7 @@
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #6EF74A;
+  background-color: #06F106;
 }
 
 .navbar-default .nav li a {
@@ -58,7 +58,7 @@
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
   outline: 0;
-  color: #6EF74A;
+  color: #06F106;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -128,7 +128,6 @@ header .intro-text {
 header .intro-text .intro-lead-in {
   margin-bottom: 25px;
   font-size: 22px;
-  // font-style: italic;
   font-family: 'Roboto Mono', monospace;
   line-height: 22px;
 }
@@ -152,7 +151,6 @@ header .intro-text .intro-heading {
     margin-bottom: 25px;
     font-family: 'Roboto Mono', monospace;
     font-size: 40px;
-    font-style: italic;
     line-height: 40px;
   }
 
@@ -168,5 +166,39 @@ header .intro-text .intro-heading {
 
 section {
   padding-top: 100px;
-  margin-bottom: 400px;
+}
+
+// colores
+//
+//rojo: DD0F00
+//blanco: F2F4F4
+//negro: 0E0E0E
+//verde: 06F106
+//morado: 8B1A8A
+
+// Perfil
+
+#perfil {
+  background-color: #F2F4F4;
+  padding-bottom: 110px;
+}
+
+.titulo-perfil {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #06F106;
+}
+
+.texto-perfil {
+  font-family: 'Roboto Mono', monospace;
+  text-align: justify;
+}
+
+.enlace-perfil {
+  padding-top: 25px;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  font-size: 1.6em;
+  a {
+  color: #8B1A8A;
+  }
 }
