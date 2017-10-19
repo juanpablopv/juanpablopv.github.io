@@ -170,22 +170,30 @@ section {
 
 // colores
 //
-//rojo: DD0F00
-//blanco: F2F4F4
-//negro: 0E0E0E
-//verde: 06F106
-//morado: 8B1A8A
+$rojo: #DD0F00;
+$blanco: #F2F4F4;
+$negro: #0E0E0E;
+$verde: #06F106;
+$morado: #8B1A8A;
+
+// Fuentes
+//
+$fuente-principal: 'Josefin Sans', sans-serif;
+$fuente-secundaria: 'Roboto Mono', monospace;
+
+section {
+  padding-bottom: 110px;
+}
 
 // Perfil
 
 #perfil {
-  background-color: #F2F4F4;
-  padding-bottom: 110px;
+  background-color: $blanco;
 }
 
 .titulo-perfil {
   font-family: 'Josefin Sans', sans-serif;
-  color: #06F106;
+  color: $verde;
 }
 
 .texto-perfil {
@@ -199,6 +207,38 @@ section {
   text-align: center;
   font-size: 1.6em;
   a {
-  color: #8B1A8A;
+  color: $morado;
+  }
+}
+
+// Servicios
+
+#servicios {
+  background-color: $negro;
+  .titulo-servicios {
+    text-align: center;
+    font-family: $fuente-principal;
+    color: $verde;
+  }
+  .envoltura-servicio {
+    background-color: $blanco;
+    padding: 30px;
+    margin: 25px;
+    .texto-servicio {
+      font-family: $fuente-secundaria;
+      color: $negro;
+    }
+    &:hover {
+      background-color: $rojo;
+    }
+  }
+  .enlace {
+    padding-top: 25px;
+    font-family: $fuente-principal;
+    text-align: center;
+    font-size: 1.6em;
+    a {
+      color: $morado;
+    }
   }
 }
