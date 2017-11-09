@@ -1,0 +1,24 @@
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+/* Slideshow container */
+.slideshow-container {
+  padding-top: 30px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides {
+  height: 300px;
+  display: none;
+  font-family: $fuente-secundaria;
+  .imagen {
+  }
+  .texto {
+    h2 {
+      color: $rojo;
+    }
+  }
+}

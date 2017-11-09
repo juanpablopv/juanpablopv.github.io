@@ -176,13 +176,25 @@ $negro: #0E0E0E;
 $verde: #06F106;
 $morado: #8B1A8A;
 
+$color-titulos: $verde;
+
 // Fuentes
 //
 $fuente-principal: 'Josefin Sans', sans-serif;
 $fuente-secundaria: 'Roboto Mono', monospace;
 
+// Partials
+@import "clientes",
+        "clientes-slides";
+
 section {
   padding-bottom: 110px;
+}
+
+.titulo {
+  text-align: center;
+  font-family: $fuente-principal;
+  color: $verde;
 }
 
 // Perfil

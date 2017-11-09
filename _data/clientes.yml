@@ -1,0 +1,38 @@
+- nombre: ABC Insumos
+  descripcion: Empresa de venta y servicio técnico de computadores y otros equipos electrónicos.
+  imagen: Logo_ABC_Insumos.jpg
+  website:
+
+- nombre: Imprimimos Colombia
+  descripcion: Empresa de litografía y otras actividades de impresión.
+  imagen: Logo_Imprimimos.jpg
+
+- nombre: J3 System Ltda.
+  descripcion: Empresa de desarrollo de software con presencia en varios departamentos de Colombia.
+  imagen: Logo_J3.png
+  website: www.j3systemltda.com
+
+- nombre: MerK+24/7
+  descripcion: Cadena de Minimercados.
+  imagen: Logo_Merk+247.jpg
+  website:
+
+- nombre: Mangaia Helados
+  descripcion: Heladería especializada en yogurt helado.
+  imagen: Logo_Mangaia_helado.jpg
+  website:
+
+- nombre: Sunny App S.A.S.
+  descripcion: Empresa de desarrollo tecnológico en Energía Solar.
+  imagen: logo_Sunny_App.png
+  website: www.sunnyapp.com
+
+- nombre: Urban Green S.A.S.
+  descripcion: Empresa enfocada en la planificación territorial, el diseño y la construcción de territorios con parámetros de sostenibilidad.
+  imagen: Logo UG.png
+  website: www.urbangreen.com.co
+
+- nombre: Urcosolar S.A.S.
+  descripcion: Empresa de ingeniería enfocada en energías renovables.
+  imagen: logo_Urcosolar.png
+  website:
