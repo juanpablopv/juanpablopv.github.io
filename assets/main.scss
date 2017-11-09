@@ -3,21 +3,57 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
+// Fuentes
+//
+$fuente-principal: 'Josefin Sans', sans-serif;
+$fuente-secundaria: 'Roboto Mono', monospace;
+
+// colores
+//
+$rojo: #73111B;
+$rojo-claro: #8D131E;
+$blanco: #FFF;
+$blanco-logo: #F0F1F1;
+$negro: #0E0E0E;
+$verde: #06F106;
+$morado: #8B1A8A;
+$gris: #636C72;
+$gris-oscuro: #353A3D;
+$gris-claro: #9BA9B2;
+
+$color-titulos: $verde;
+
+// Navegacion
+$color-fondo-navbar: $blanco-logo;
+$color-navbar-brand: $gris;
+$color-navbar-brand-dos: $gris-claro;
+$color-navbar-toggle: $blanco-logo;
+$color-fondo-navbar-toggle: $rojo-claro;
+$color-fondo-navbar-toggle-dos: $rojo;
+$color-enlace-navegacion: $gris;
+$color-enlace-navegacion-dos: $gris-claro;
+$color-enlace-navegacion-activo: $blanco-logo;
+$color-fondo-enlace-navegacion-activo: $rojo-claro;
+
+// Secciones
+$color-titulos: $rojo;
+$color-enlaces: $rojo-claro;
+
 .navbar-default {
   border-color: transparent;
-  background-color: #222;
+  background-color: $color-fondo-navbar;
 }
 
 .navbar-default .navbar-brand {
   font-family: 'Josefin Sans', sans-serif;
-  color: #06F106;
+  color: $color-navbar-brand;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-  color: #FFFFFF;
+  color: $color-navbar-brand-dos;
 }
 
 .brand {
@@ -31,17 +67,17 @@
 }
 
 .navbar-default .navbar-toggle {
-  border-color: #06F106;
-  background-color: #06F106;
+  border-color: $color-fondo-navbar-toggle;
+  background-color: $color-fondo-navbar-toggle;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #fff;
+  background-color: $color-navbar-toggle;
 }
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #06F106;
+  background-color: $color-fondo-navbar-toggle-dos;
 }
 
 .navbar-default .nav li a {
@@ -49,7 +85,7 @@
   font-family: 'Roboto Mono', monospace;
   font-weight: 400;
   letter-spacing: 1px;
-  color: #fff;
+  color: $color-enlace-navegacion;
   -webkit-transition: all ease .35s;
   -moz-transition: all ease .35s;
   transition: all ease .35s;
@@ -58,21 +94,19 @@
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
   outline: 0;
-  color: #06F106;
+  color: $color-enlace-navegacion-dos;
 }
 
 .navbar-default .navbar-nav>.active>a {
   border-radius: 0;
-  color: #fff;
-  background-color: #44992E;
-  font-weight: 700;
+  color: $color-enlace-navegacion-activo;
+  background-color: $color-fondo-enlace-navegacion-activo;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-  color: #fff;
-  background-color: #44992E;
-  font-weight: 700;
+  color: $color-enlace-navegacion-activo;
+  background-color: $color-fondo-enlace-navegacion-activo;
 }
 
 @media(min-width:768px) {
@@ -98,7 +132,7 @@
 
   .navbar-default.navbar-shrink {
     padding: 10px 0;
-    background-color: #222;
+    background-color: $color-fondo-navbar;
   }
 
   .navbar-default.navbar-shrink .navbar-brand {
@@ -168,23 +202,10 @@ section {
   padding-top: 100px;
 }
 
-// colores
-//
-$rojo: #DD0F00;
-$blanco: #F2F4F4;
-$negro: #0E0E0E;
-$verde: #06F106;
-$morado: #8B1A8A;
-
-$color-titulos: $verde;
-
-// Fuentes
-//
-$fuente-principal: 'Josefin Sans', sans-serif;
-$fuente-secundaria: 'Roboto Mono', monospace;
 
 // Partials
-@import "clientes",
+@import "header",
+        "clientes",
         "clientes-slides";
 
 section {
@@ -200,15 +221,17 @@ section {
 // Perfil
 
 #perfil {
-  background-color: $blanco;
+  background-color: $blanco-logo;
 }
 
 .titulo-perfil {
   font-family: 'Josefin Sans', sans-serif;
-  color: $verde;
+  color: $color-titulos;
 }
 
 .texto-perfil {
+  padding-left: 15px;
+  padding-right: 15px;
   font-family: 'Roboto Mono', monospace;
   text-align: justify;
 }
@@ -219,21 +242,21 @@ section {
   text-align: center;
   font-size: 1.6em;
   a {
-  color: $morado;
+  color: $color-enlaces;
   }
 }
 
 // Servicios
 
 #servicios {
-  background-color: $negro;
+  background-color: $blanco;
   .titulo-servicios {
     text-align: center;
     font-family: $fuente-principal;
-    color: $verde;
+    color: $color-titulos;
   }
   .envoltura-servicio {
-    background-color: $blanco;
+    background-color: $blanco-logo;
     padding: 30px;
     margin: 25px;
     .texto-servicio {
@@ -250,7 +273,7 @@ section {
     text-align: center;
     font-size: 1.6em;
     a {
-      color: $morado;
+      color: $color-enlaces;
     }
   }
 }
