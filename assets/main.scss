@@ -21,7 +21,9 @@ $gris: #636C72;
 $gris-oscuro: #353A3D;
 $gris-claro: #9BA9B2;
 
-$color-titulos: $verde;
+// General
+$color-titulos: $rojo;
+$color-enlaces: $rojo-claro;
 
 // Navegacion
 $color-fondo-navbar: $blanco-logo;
@@ -35,9 +37,6 @@ $color-enlace-navegacion-dos: $gris-claro;
 $color-enlace-navegacion-activo: $blanco-logo;
 $color-fondo-enlace-navegacion-activo: $rojo-claro;
 
-// Secciones
-$color-titulos: $rojo;
-$color-enlaces: $rojo-claro;
 
 .navbar-default {
   border-color: transparent;
@@ -206,7 +205,8 @@ section {
 // Partials
 @import "header",
         "clientes",
-        "clientes-slides";
+        "clientes-slides",
+        "footer";
 
 section {
   padding-bottom: 110px;
@@ -215,7 +215,7 @@ section {
 .titulo {
   text-align: center;
   font-family: $fuente-principal;
-  color: $verde;
+  color: $color-titulos;
 }
 
 // Perfil
@@ -264,7 +264,10 @@ section {
       color: $negro;
     }
     &:hover {
-      background-color: $rojo;
+      background-color: $gris-oscuro;
+      .texto-servicio {
+        color: $blanco-logo;
+      }
     }
   }
   .enlace {

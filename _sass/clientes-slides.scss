@@ -14,11 +14,8 @@
   height: 300px;
   display: none;
   font-family: $fuente-secundaria;
-  .imagen {
-  }
-  .texto {
-    h2 {
-      color: $rojo;
-    }
+  img {
+    padding-top: 20px;
+    max-height: 130px;
   }
 }

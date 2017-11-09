@@ -9,6 +9,16 @@ description: >-
 keywords: "Jekyll, GitHub, Pages, Español, 2624789"
 license: "CC-BY-SA"
 
+social:
+  - title: facebook
+    url: https://www.facebook.com/juanpablo.pvco
+  - title: twitter
+    url: https://twitter.com/JuanPabloPV
+  - title: instagram
+    url: http://instagram.com/juanpablo.pv
+  - title: envelope
+    url: mailto:jp@juanpablo.co
+
 github_username: "2624789"
 
 # Configuración de compilación

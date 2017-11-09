@@ -1,46 +1,28 @@
-<footer class="site-footer">
+ <footer>
+  <div class="container">
+    <div class="row">
 
-  <div class="wrapper">
+      <div class="col-md-4">
+        <span class="copyright">Copyright &copy; {{ site.title }} {{ 'now' | date: "%Y" }}</span>
+      </div>
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
+      <div class="col-md-4">
+        <ul class="list-inline social-buttons">
+          {% for network in site.social %}
+            <li>
+              <a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
             </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
+          {% endfor %}
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {{ site.github_username }}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {{ site.twitter_username }}
-          </li>
-          {% endif %}
+      <div class="col-md-4">
+        <ul class="list-inline quicklinks">
+          <li><a href="#">Política de Privacidad</a></li>
+          <li><a href="#">Términos de Uso</a></li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.license | escape }}</p>
-      </div>
     </div>
-
   </div>
-
 </footer>
