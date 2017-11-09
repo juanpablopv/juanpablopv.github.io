@@ -212,6 +212,7 @@ section {
 @import "header",
         "clientes",
         "clientes-slides",
+        "publicaciones",
         "footer";
 
 section {
@@ -224,6 +225,15 @@ section {
   color: $color-titulos;
 }
 
+.enlace {
+  padding-top: 25px;
+  font-family: $fuente-principal;
+  text-align: center;
+  font-size: 1.6em;
+  a {
+    color: $color-enlaces;
+  }
+}
 // Perfil
 
 #perfil {
@@ -274,15 +284,6 @@ section {
       .texto-servicio {
         color: $blanco-logo;
       }
-    }
-  }
-  .enlace {
-    padding-top: 25px;
-    font-family: $fuente-principal;
-    text-align: center;
-    font-size: 1.6em;
-    a {
-      color: $color-enlaces;
     }
   }
 }

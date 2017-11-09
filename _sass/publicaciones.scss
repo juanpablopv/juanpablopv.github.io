@@ -1,0 +1,26 @@
+#publicaciones {
+  font-family: $fuente-secundaria;
+  .publicacion {
+    margin-top: 25px;
+    .data {
+      h5 {
+        padding-top: 13px;
+        margin-bottom: 2px;
+      }
+      a {
+        color: $gris;
+      }
+    }
+    .text {
+      a {
+        color: $color-enlaces;
+        h3 {
+          color: $negro;
+          &:hover {
+            color: $color-enlaces;
+          }
+        }
+      }
+    }
+  }
+}
