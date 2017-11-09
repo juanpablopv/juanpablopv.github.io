@@ -9,66 +9,18 @@
     </div>
 
     <div class="row">
-      <div class="col-md-4">
-        <div class="envoltura-servicio">
-          <div class="texto-servicio">
-            <h3>Servicio</h3>
-            <p>
-              Lorem ipsum dolor sit amet, eleifend nec mollis vitae, porta vel neque. Sed sagittis efficitur metus, id vestibulum purus ultricies non. Nunc in convallis felis. Pellentesque semper sed neque eget imperdiet.
-            </p>
+
+      {% for servicio in site.data.servicios %}
+        <div class="col-md-12">
+          <div class="envoltura-servicio">
+            <div class="texto-servicio">
+              <h3>{{ servicio.nombre }}</h3>
+              <p>{{ servicio.descripcion }}</p>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="col-md-4">
-        <div class="envoltura-servicio">
-          <div class="texto-servicio">
-            <h3>Servicio</h3>
-            <p>
-              Lorem ipsum dolor sit amet, eleifend nec mollis vitae, porta vel neque. Sed sagittis efficitur metus, id vestibulum purus ultricies non. Nunc in convallis felis. Pellentesque semper sed neque eget imperdiet.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="envoltura-servicio">
-          <div class="texto-servicio">
-            <h3>Servicio</h3>
-            <p>
-              Lorem ipsum dolor sit amet, eleifend nec mollis vitae, porta vel neque. Sed sagittis efficitur metus, id vestibulum purus ultricies non. Nunc in convallis felis. Pellentesque semper sed neque eget imperdiet.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="envoltura-servicio">
-          <div class="texto-servicio">
-            <h3>Servicio</h3>
-            <p>
-              Lorem ipsum dolor sit amet, eleifend nec mollis vitae, porta vel neque. Sed sagittis efficitur metus, id vestibulum purus ultricies non. Nunc in convallis felis. Pellentesque semper sed neque eget imperdiet.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="envoltura-servicio">
-          <div class="texto-servicio">
-            <h3>Servicio</h3>
-            <p>
-              Lorem ipsum dolor sit amet, eleifend nec mollis vitae, porta vel neque. Sed sagittis efficitur metus, id vestibulum purus ultricies non. Nunc in convallis felis. Pellentesque semper sed neque eget imperdiet.
-            </p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="envoltura-servicio">
-          <div class="texto-servicio">
-            <h3>Servicio</h3>
-            <p>
-              Lorem ipsum dolor sit amet, eleifend nec mollis vitae, porta vel neque. Sed sagittis efficitur metus, id vestibulum purus ultricies non. Nunc in convallis felis. Pellentesque semper sed neque eget imperdiet.
-            </p>
-          </div>
-        </div>
-      </div>
+      {% endfor %}
+
     </div>
 
     <div class="row">
