@@ -12,8 +12,11 @@
 
       {% for servicio in site.data.servicios %}
         <div class="col-md-12">
-          <div class="envoltura-servicio">
-            <div class="texto-servicio">
+          <div class="envoltura-servicio row">
+            <div class="col-md-3 imagen-servicio">
+              <img class="img-responsive center-block" src="{{ "/assets/images/servicios/" | append: servicio.imagen | relative_url }}">
+            </div>
+            <div class="col-md-9 texto-servicio">
               <h3>{{ servicio.nombre }}</h3>
               <p>{{ servicio.descripcion }}</p>
             </div>
