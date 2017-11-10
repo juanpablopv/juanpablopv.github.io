@@ -1,3 +1,31 @@
 #clientes {
   background-color: $blanco-logo;
+  padding-bottom: 150px;
+
+  .vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+  }
+
+  .slideshow-container {
+    height: 250px;
+    position: relative;
+    margin: auto;
+  }
+
+  .mySlides {
+    margin-top: 40px;
+    display: none;
+    font-family: $fuente-secundaria;
+    img {
+      padding-top: 20px;
+      max-height: 230px;
+    }
+  }
+}
+@media(min-width:768px) {
+  #clientes {
+    padding-bottom: 50px;
+  }
 }
