@@ -149,7 +149,6 @@ header {
   text-align: center;
   color: #fff;
   background-attachment: scroll;
-  // https://i.vimeocdn.com/video/601809187_1280x720.jpg
   background-image: url("{{ "/assets/images/baner.jpg" | relative_url }}");
   background-position: center center;
   background-repeat: none;
@@ -244,7 +243,12 @@ section {
   color: $color-titulos;
 }
 
+.imagen-perfil {
+  margin-top: 20px;
+}
+
 .texto-perfil {
+  margin-top: 30px;
   padding-left: 15px;
   padding-right: 15px;
   font-family: $fuente-secundaria;
