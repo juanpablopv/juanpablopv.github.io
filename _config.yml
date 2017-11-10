@@ -4,9 +4,12 @@ baseurl: "/"
 
 title: Juan Pablo Puentes Vargas
 author: "2624789"
+email: jp@juanpablo.co
+phone: "+57 3014206869"
+skype: "juanpablo.puentes"
 description: >-
-  Sitio web personal estático hecho con Jekyll
-keywords: "Jekyll, GitHub, Pages, Español, 2624789"
+  Abogado especializado en tecnología y en propiedad intelectual
+keywords: "Abogado, Tecnología, Derecho Informático, Propiedad Intelectual"
 license: "CC-BY-SA"
 
 social:

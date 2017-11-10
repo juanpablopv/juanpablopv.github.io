@@ -1,0 +1,63 @@
+#contacto {
+  .contacto-wrapper {
+    font-family: $fuente-secundaria;
+    margin-top: 30px;
+    .formulario {
+      label {
+        padding-top: 25px;
+        font-size: 1.6em;
+        font-weight: 400;
+      }
+      input, textarea {
+        width: 100%;
+        border: 0;
+        background-color: $blanco-logo;
+        font-size: 1.1em;
+        padding: 8px;
+      }
+      .botones {
+        margin-top: 10px;
+        button {
+          margin-right: 10px;
+          padding: 9px;
+          border: solid 2px $rojo;
+          color: $rojo;
+          background-color: $blanco;
+          font-size: 1.1em;
+          &:hover {
+            color: $gris;
+            border: solid 2px $gris;
+          }
+          &.special {
+            color: $blanco;
+            border: solid 2px $rojo;
+            background-color: $rojo;
+          }
+          &.special:hover, &.special:active {
+            background-color: $gris;
+            border: solid 2px $gris;
+          }
+        }
+      }
+    }
+    .datos {
+      .dato {
+        margin-top: 20px;
+        margin-right: 20px;
+        padding: 5px;
+        height: 100px;
+        h3 {
+          margin-left: 50px;
+          i {
+            margin-right: 10px;
+          }
+        }
+        a {
+          color: $color-enlaces;
+          margin-left: 90px;
+          font-size: 1.2em;
+        }
+      }
+    }
+  }
+}

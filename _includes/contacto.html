@@ -1,0 +1,67 @@
+<section id="contacto">
+  <div class="container">
+    <div class="row text-center">
+      <h1 class="titulo">Contacto</h1>
+    </div>
+
+    <div class="row contacto-wrapper">
+      <div class="col-md-7 formulario">
+        <form action="https://formspree.io/{{ site.email }}" method="POST">
+
+          <div class="row">
+            <div class="col-md-6 nombre">
+              <label for="name">Nombre</label><br>
+              <input type="text" name="name" id="name" />
+            </div>
+
+            <div class="col-md-6 correo">
+              <label for="email">Correo</label><br>
+              <input type="text" name="_replyto" id="email" />
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-md-12 mensaje">
+              <label for="message">Mensaje</label><br>
+              <textarea name="message" id="message" rows="6"></textarea>
+            </div>
+          </div>
+
+          <div class="row botones">
+            <div class="col-md-12">
+              <button type="submit" class="special">Enviar Mensaje</button>
+              <button type="reset" >Cancelar</button>
+            </div>
+          </div>
+
+        </form>
+      </div>
+
+      <div class="col-md-5 datos">
+
+        <div class="row">
+          <div class="col-md-12 dato">
+            <h3><i class="fa fa-envelope"></i> Correo</h3>
+            <a href="#">{{ site.email }}</a>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12 dato">
+            <h3><i class="fa fa-phone"></i> Teléfono</h3>
+            <a href="#">{{ site.phone }}</a>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-12 dato">
+            <h3><i class="fa fa-skype"></i> Skype</h3>
+            <a href="#">{{ site.skype }}</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</section>
