@@ -21,7 +21,7 @@ más complejas también pueden ser desplazadas total o parcialmente. Los
 avances en la tecnología están haciendo posible cosas que hasta hace
 algunos años pertenecían solo a la ciencia ficción.
 
-![Robot](http://compartirpalabramaestra.org/sites/default/files/styles/articulos/public/field/image/roboperiodismo-narrative-science-y-el-futuro-de-las-noticias.jpg)
+![Robot](http://compartirpalabramaestra.org/sites/default/files/styles/articulos/public/field/image/roboperiodismo-narrative-science-y-el-futuro-de-las-noticias.jpg){: .img-responsive }
 
 ¿Ha oído usted hablar del “roboperiodismo”? Probablemente no, y la
 verdad es que la mayoría de personas tampoco ya que es un término

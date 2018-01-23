@@ -1,4 +1,4 @@
-.pagina {
+.post {
   font-family: $fuente-secundaria;
   font-size: 1.1em;
   h1 {
@@ -16,13 +16,18 @@
   a {
     color: $color-enlaces;
   }
+  .subtitulo {
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: -10px;
+    .categoria {
+      color: $gris;
+    }
+  }
 }
 
 @media(min-width:768px) {
-  .pagina {
+  .post {
     padding-top: 100px;
-    h1 {
-      padding-bottom: 20px;
-    }
   }
 }

@@ -24,7 +24,7 @@ productividad 3 veces, mas no reemplaza a los trabajadores. Es de
 esperar que futuros modelos sean cada vez más autónomos, llegando
 incluso a prescindir de sus contrapartes humanas.
 
-![Robot](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laproscopic_Surgery_Robot.jpg/412px-Laproscopic_Surgery_Robot.jpg)
+![Robot](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Laproscopic_Surgery_Robot.jpg/412px-Laproscopic_Surgery_Robot.jpg){: .img-responsive }
 
 Pero el mundo de la construcción no es el único que está viendo la
 llegada de los robots y de la inteligencia artificial (IA). Ya hay

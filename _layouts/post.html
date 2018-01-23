@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include navegacion-post.html %}
+
+<section class="container post">
+  <div class="row">
+    <div class="col-md-12">
+
+      <h1>{{ page.title }}</h1>
+      <p class="subtitulo">{{ page.date | date_to_string }} - <span class="categoria">{{ page.category }}</span></p>
+
+      {{ content }}
+
+      <h3>Otras publicaciones</h3>
+      {% if page.previous %}
+        <p>Anterior: <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a></p>
+      {% endif %}
+      {% if page.next %}
+        <p>Siguiente: <a rel="next" href="{{ page.next.url }}">{{ page.next.title }}</a></p>
+      {% endif %}
+
+    </div>
+  </div>
+</section>
+
+
+{% include footer.html %}
