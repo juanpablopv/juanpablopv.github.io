@@ -1,0 +1,25 @@
+.pagina {
+  font-family: $fuente-secundaria;
+  font-size: 1.1em;
+  h1 {
+    text-align: center;
+    font-family: $fuente-principal;
+    color: $color-titulos;
+  }
+  p {
+    img {
+      padding: 20px;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+}
+
+@media(min-width:768px) {
+  .pagina {
+    padding-top: 100px;
+  }
+  h1 {
+    padding-bottom: 20px;
+  }
+}

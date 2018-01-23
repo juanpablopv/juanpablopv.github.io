@@ -211,6 +211,7 @@ section {
 @import "header",
         "clientes",
         "publicaciones",
+        "pagina",
         "contacto",
         "footer";
 
@@ -235,7 +236,7 @@ section {
 }
 // Perfil
 
-#perfil {
+#seccion-perfil {
   background-color: $blanco-logo;
 }
 
