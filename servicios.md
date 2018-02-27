@@ -92,19 +92,6 @@ Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo
 - Derecho de la Competencia.
 	 - Acciones contra la competencia desleal (actos de desviación de la clientela, actos de descrédito, 	explotación de la reputación ajena, violación de secretos, entre otros)
 
-- Capacitaciones y conferencias en cualquiera de mis áreas de trabajo. Entre otras pueden ser:
-	 - Propiedad intelectual y sector educativo.
-	 - Propiedad intelectual e investigación.
-	 - Propiedad intelectual y publicidad.
-	 - Propiedad intelectual y desarrollo de software.
-	 - Derechos de autor y conexos para músicos.
-	 - Derechos de autor para fotógrafos.
-	 - Derechos de autor en internet.
-	 - Derechos de autor y el sector audiovisual.
-	 - Derechos de autor y el sector editorial
-	 - Aspectos jurídicos en las redes sociales.
-	 - Aspectos jurídicos del software libre.
-
 ----
 
 ## DERECHO AMBIENTAL
@@ -122,7 +109,23 @@ Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo
 	- Permiso de investigación científica en diversidad biológica 
 	
 ----
+## Capacitaciones y conferencias
+![Capacitaciones y Conferencias](/assets/images/servicios/300conferencias.png)
 
+Capacitaciones y conferencias en cualquiera de mis áreas de trabajo. Entre otras pueden ser:
+
+- Propiedad intelectual y sector educativo.
+- Propiedad intelectual e investigación.
+- Propiedad intelectual y publicidad.
+- Propiedad intelectual y desarrollo de software.
+- Derechos de autor y conexos para músicos.
+- Derechos de autor para fotógrafos.
+- Derechos de autor en internet.
+- Derechos de autor y el sector audiovisual.
+- Derechos de autor y el sector editorial
+- Aspectos jurídicos en las redes sociales.
+- Aspectos jurídicos del software libre.
+----
 
 Los servicios pueden incluir el manejo de contenidos técnicos y jurídicos en español e ingles.
 
@@ -133,3 +136,4 @@ Correo electrónico: jp@juanpablo.co
 Teléfono: (+57) 3014206869
 
 Skype: juanpablo.puentes
+
