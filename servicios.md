@@ -110,7 +110,19 @@ Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo
 ## DERECHO AMBIENTAL
 ![Derecho Ambiental](/assets/images/servicios/300derecho_ambiental.png)
 - Defensa en procesos sancionatorios ambientales.
-- Solicitud de licencias y permisos ambientales.
+- Trámite de licencias ambientales.
+- Trámite de autorizaciones y permisos ambientales, entre otros:
+	- Permiso de prospección y explotación de aguas subterráneas
+	- Concesión de Aguas superficiales.
+	- Concesión de Aguas subterráneas. 
+	- Permiso de Vertimientos.
+	- Permiso de Emisiones Atmosféricas.
+	- Permiso de Ocupación de Cauces.
+	- Aprovechamiento Forestal.
+	- Permiso de investigación científica en diversidad biológica 
+	
+----
+
 
 Los servicios pueden incluir el manejo de contenidos técnicos y jurídicos en español e ingles.
 
