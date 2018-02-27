@@ -4,7 +4,7 @@ layout: pagina
 
 # SERVICIOS
 
-Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo relativo a Propiedad Intelectual, Derecho Comercial, Derecho Informático y de las Nuevas Tecnologías, en particular:
+Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo relativo a Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental, en particular:
 
 ## DERECHO INFORMÁTICO Y DE LAS NUEVAS TECNOLOGÍAS
 ![Derecho Informático](/assets/images/servicios/400derecho_informatico.png)
