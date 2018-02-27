@@ -6,7 +6,8 @@ layout: pagina
 
 Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo relativo a Propiedad Intelectual, Derecho Comercial, Derecho Informático y de las Nuevas Tecnologías, en particular:
 
-DERECHO INFORMÁTICO Y DE LAS NUEVAS TECNOLOGÍAS
+## DERECHO INFORMÁTICO Y DE LAS NUEVAS TECNOLOGÍAS
+![Derecho Informático](/assets/images/servicios/400derecho_informatico.png)
 - Contratos del sector TIC. Entre otros:
    - Contrato de desarrollo de software.
    - Contrato de servicios de software (soporte, mantenimiento, etcétera.).
@@ -31,7 +32,10 @@ DERECHO INFORMÁTICO Y DE LAS NUEVAS TECNOLOGÍAS
 - Gobierno Electrónico.
 - Derecho de las Telecomunicaciones.
 
-PROPIEDAD INTELECTUAL
+----
+
+## PROPIEDAD INTELECTUAL
+![Propiedad Intelectual](/assets/images/servicios/300propiedad_intelectual1.png)
 - Marcas:
 	 - Registro de su marca en Colombia.
 	 - Estudio de antecedentes antes de crear su “marca”.
@@ -76,7 +80,10 @@ PROPIEDAD INTELECTUAL
 - Nuevos modelos de negocio bajo enfoques abiertos para sus activos intangibles.
 - Todo tipo de registros y trámites en materia de propiedad intelectual.
 
-DERECHO COMERCIAL
+----
+  
+## DERECHO COMERCIAL
+![Derecho Comercial](/assets/images/servicios/400derecho_comercial.png)
 - Constitución de Sociedades.
 - Derecho del Consumo.
 	 - Adecuación de su negocio a las normas de protección del consumidor.
@@ -98,6 +105,19 @@ DERECHO COMERCIAL
 	 - Aspectos jurídicos en las redes sociales.
 	 - Aspectos jurídicos del software libre.
 
+----
+
+## DERECHO AMBIENTAL
+![Derecho Ambiental](/assets/images/servicios/300derecho_ambiental.png)
+- Defensa en procesos sancionatorios ambientales.
+- Solicitud de licencias y permisos ambientales.
+
 Los servicios pueden incluir el manejo de contenidos técnicos y jurídicos en español e ingles.
 
-Si está interesado(a) en algún servicio por favor contactarme para poder tener el gusto de atenderlo(a).
+Si está interesado(a) en algún servicio por favor contactarme para poder tener el gusto de atenderlo(a):
+
+Correo electrónico: jp@juanpablo.co
+
+Teléfono: (+57) 3014206869
+
+Skype: juanpablo.puentes
