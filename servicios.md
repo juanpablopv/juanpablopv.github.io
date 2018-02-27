@@ -132,7 +132,7 @@ Los servicios pueden incluir el manejo de contenidos técnicos y jurídicos en e
 
 Si está interesado(a) en algún servicio por favor contactarme para poder tener el gusto de atenderlo(a):
 
-Correo electrónico: jp@juanpablo.co
+Correo electrónico:  jp@juanpablo.co
 
 Teléfono: (+57) 3014206869
 
