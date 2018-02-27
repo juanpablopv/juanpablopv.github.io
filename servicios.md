@@ -125,6 +125,7 @@ Capacitaciones y conferencias en cualquiera de mis áreas de trabajo. Entre otra
 - Derechos de autor y el sector editorial
 - Aspectos jurídicos en las redes sociales.
 - Aspectos jurídicos del software libre.
+
 ----
 
 Los servicios pueden incluir el manejo de contenidos técnicos y jurídicos en español e ingles.
