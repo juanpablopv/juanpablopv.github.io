@@ -11,7 +11,8 @@ Abogado de la Universidad del Rosario (Bogotá – Colombia).
 Especialista en Derecho Informático y de las Nuevas Tecnologías de la Universidad Externado (Bogotá – Colombia).
 
 Magíster en Derecho y Tecnología [Master in Laws (LLM) Law and Technology] de la Universidad de Tilburg (Tilburg – Países Bajos). 
-Tesis de grado: Recommendations for the adoption of libre software in the public sector in South America.
+
+_Tesis de grado: Recommendations for the adoption of libre software in the public sector in South America_.
 
 Técnico en Electrónica con énfasis en Sistemas Digitales y Microcontroladores.
 
@@ -34,5 +35,5 @@ Buen conocimiento y manejo de diversas herramientas de software [sistemas operat
 Experiencia en el sector público nacional, como asesor interno en una institución universitaria (propiedad intelectual y derecho informático), como conferencista (propiedad intelectual, derecho informático, software libre y tecnología) y en actividades académicas (grupos de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
 
 Actualmente:
-- Asesor externo en temas de propiedad intelectual, derecho comercial, derecho informático y de las nuevas tecnologías.
-- Director Ejecutivo de la Corporación HorMinka,”ciencia y tecnología al servicio de la sociedad”.
+- Asesor en asuntos de Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental.
+
