@@ -34,8 +34,7 @@ Buen conocimiento y manejo de diversas herramientas de software [sistemas operat
 
 Experiencia en el sector público nacional, como asesor interno en una institución universitaria (propiedad intelectual y derecho informático), como conferencista (propiedad intelectual, derecho informático, software libre y tecnología) y en actividades académicas (grupos de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
 
-Actualmente:
-- Asesor en asuntos de Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental. Algunas empresas asesoradas: 
+Actualmente asesor en asuntos de Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental. Algunas empresas asesoradas: 
 * ABC Insumos Ltda
 * C.S.M & TECNOLOGÍAS S.A.S.
 * Grupo Mueve S.A.S.
