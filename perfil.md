@@ -35,5 +35,17 @@ Buen conocimiento y manejo de diversas herramientas de software [sistemas operat
 Experiencia en el sector público nacional, como asesor interno en una institución universitaria (propiedad intelectual y derecho informático), como conferencista (propiedad intelectual, derecho informático, software libre y tecnología) y en actividades académicas (grupos de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
 
 Actualmente:
-- Asesor en asuntos de Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental.
+- Asesor en asuntos de Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental. Algunas empresas asesoradas: 
+* ABC Insumos Ltda
+* C.S.M & TECNOLOGÍAS S.A.S.
+* Grupo Mueve S.A.S.
+* J3 System Ltda
+* Imprimimos Colombia
+* Inversiones Ortiz Prada S.A.S.
+* Mangaia Helados
+* Siete24 (App)
+* Sunny App S.A.S.
+* Tecnosoftcol S.A.S.
+* Urban Green S.A.S.
+* Urcosolar S.A.S.
 
