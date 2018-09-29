@@ -1,3 +1,13 @@
+- nombre: GRUPO MUEVE S.A.S.
+  descripcion: Empresa que ofrece soluciones tecnológicas que permiten optimizar los procesos e incrementar la productividad de sus clientes.
+  imagen: Logo_MueveTeMueve.jpg
+  website: www.muevetemueve.com/
+  
+- nombre: C.S.M. & Tecnologías S.A.S. 
+  descripcion: Empresa de desarrollo de software a la medida.
+  imagen: Logo_MueveTeMueve.jpg
+  website: www.csmtecnologiasas.com/
+  
 - nombre: ABC Insumos
   descripcion: Empresa de venta y servicio técnico de computadores y otros equipos electrónicos.
   imagen: Logo_ABC_Insumos.jpg
@@ -36,3 +46,4 @@
   descripcion: Empresa de ingeniería enfocada en energías renovables.
   imagen: logo_Urcosolar.png
   website:
+
