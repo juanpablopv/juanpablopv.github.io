@@ -1,7 +1,41 @@
+- nombre: Mangaia Helados
+  descripcion: Heladería especializada en yogurt helado.
+  imagen: Logo_Mangaia_helado.jpg
+  website: www.facebook.com/mangaiahelado/
+  
+- nombre: FRUPY'S 
+  descripcion: Restaurante y heladería con más de 20 años de servicios en Neiva.
+  imagen: logo_Frupys.png
+  website: www.frupys.com
+  
+- nombre: MerK+24/7
+  descripcion: Cadena de Minimercados.
+  imagen: Logo_Merk+247.jpg
+  
 - nombre: Surcolombiana de Gas S.A. E.S.P.
   descripcion: Empresa de capital público y privado comercializadora y distrbuidora de gas domiciliario principalmente en el sur colombiano.
   imagen: logo_surgas.png
   website: www.surgas.com/
+
+- nombre: Sunny App S.A.S.
+  descripcion: Empresa de desarrollo tecnológico en Energía Solar.
+  imagen: logo_Sunny_App.png
+  website: www.sunnyapp.com
+  
+- nombre: MAXIM & FISHING SOLUTIONS PROVIDE S.A.S.
+  descripcion: Empresa que brinda soluciones integrales de ingeniería al sector de hidrocarburos.
+  imagen: Logo_Maxim_Fishing.png
+  website: www.maximfishing.com
+
+- nombre: Urcosolar S.A.S.
+  descripcion: Empresa de ingeniería enfocada en energías renovables.
+  imagen: logo_Urcosolar.png
+  website: www.facebook.com/urcosolar/
+  
+- nombre: Urban Green S.A.S.
+  descripcion: Empresa enfocada en la planificación territorial, el diseño y la construcción de territorios con parámetros de sostenibilidad.
+  imagen: Logo UG.png
+  website: www.urbangreen.com.co
 
 - nombre: GRUPO MUEVE S.A.S.
   descripcion: Empresa que ofrece soluciones tecnológicas que permiten optimizar los procesos e incrementar la productividad de sus clientes.
@@ -16,7 +50,7 @@
 - nombre: ABC Insumos
   descripcion: Empresa de venta y servicio técnico de computadores y otros equipos electrónicos.
   imagen: Logo_ABC_Insumos.jpg
-  website:
+  website: www.facebook.com/WWW.ABCONLINE.COM.CO/
 
 - nombre: Imprimimos Colombia
   descripcion: Empresa de litografía y otras actividades de impresión.
@@ -27,28 +61,5 @@
   imagen: Logo_J3.png
   website: www.j3systemltda.com
 
-- nombre: MerK+24/7
-  descripcion: Cadena de Minimercados.
-  imagen: Logo_Merk+247.jpg
-  website:
 
-- nombre: Mangaia Helados
-  descripcion: Heladería especializada en yogurt helado.
-  imagen: Logo_Mangaia_helado.jpg
-  website:
-
-- nombre: Sunny App S.A.S.
-  descripcion: Empresa de desarrollo tecnológico en Energía Solar.
-  imagen: logo_Sunny_App.png
-  website: www.sunnyapp.com
-
-- nombre: Urban Green S.A.S.
-  descripcion: Empresa enfocada en la planificación territorial, el diseño y la construcción de territorios con parámetros de sostenibilidad.
-  imagen: Logo UG.png
-  website: www.urbangreen.com.co
-
-- nombre: Urcosolar S.A.S.
-  descripcion: Empresa de ingeniería enfocada en energías renovables.
-  imagen: logo_Urcosolar.png
-  website:
 
