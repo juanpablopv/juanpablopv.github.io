@@ -4,7 +4,7 @@ layout: pagina
 
 # SERVICIOS
 
-Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo relativo a Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental, en particular:
+Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo lo relativo a Derecho Informático y Propiedad Intelectual, así como asuntos de  <strong> Derecho Administrativo </strong> (defensa en procesos administrativos sancionatorios, demandas de nulidad, acciones de tutela, entre otros), <strong> Derecho Civil</strong>(divorcios, procesos de declaración de pertenencia, entre otros), <strong> Derecho Comercial</strong>(contratos comerciales, derecho del consumidor, constitución de sociedades, entre otros), <strong> Derecho Constitucional</strong>(derechos de petición, acciones de tutela contra providencias judiciales, acciones de tutela en general, acciones de grupo, entre otros) y <strong> Derecho Laboral</strong>(contratos laborales, contratos de prestación de servicios, contratos de aprendizaje, reglamento de trabajo, entre otros).
 
 ## DERECHO INFORMÁTICO Y DE LAS NUEVAS TECNOLOGÍAS
 ![Derecho Informático](/assets/images/servicios/400derecho_informatico.png)
@@ -24,7 +24,7 @@ Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo
 - Datos personales.
 	 - Denuncias por violación de las normas de datos personales.
 	 - Registro de bases de datos personales ante la Superintendencia de Industria y Comercio (El 	plazo máximo de registro es el 31 de enero de 2018, de lo contrario se puede hacer acreedor a 	multas de hasta 2000 SMMLV.)
-	 - Manual de Políticas de Datos Personales (Obligatorios  para el registro de sus bases de datos 	personales).
+	 - Manual de Políticas de Datos Personales (Obligatorios para el registro de sus bases de datos personales).
 - Nombres de Dominio (Ejemplo: www.miempresa.com).
 	 - Registro de dominios.
 	 - Disputas relativas a estos. Por ejemplo por ciberocupación.
@@ -91,22 +91,6 @@ Mis asesorías, consultorías y servicios jurídicos en general incluyen todo lo
 	 - Defensa ante demandas y denuncias por violación de las normas de protección al consumidor.
 - Derecho de la Competencia.
 	 - Acciones contra la competencia desleal (actos de desviación de la clientela, actos de descrédito, 	explotación de la reputación ajena, violación de secretos, entre otros)
-
-----
-
-## DERECHO AMBIENTAL
-![Derecho Ambiental](/assets/images/servicios/300derecho_ambiental.png)
-- Defensa en procesos sancionatorios ambientales.
-- Trámite de licencias ambientales.
-- Trámite de autorizaciones y permisos ambientales, entre otros:
-	- Permiso de prospección y explotación de aguas subterráneas
-	- Concesión de Aguas superficiales.
-	- Concesión de Aguas subterráneas. 
-	- Permiso de Vertimientos.
-	- Permiso de Emisiones Atmosféricas.
-	- Permiso de Ocupación de Cauces.
-	- Aprovechamiento Forestal.
-	- Permiso de investigación científica en diversidad biológica 
 	
 ----
 ## Capacitaciones y conferencias
