@@ -8,9 +8,13 @@
   imagen: logo_Frupys.png
   website: www.frupys.com
   
-- nombre: MerK+24/7
-  descripcion: Cadena de Minimercados.
-  imagen: Logo_Merk+247.jpg
+- nombre: EAGLE INSTITUTE S.A.S.
+  descripcion: Instituto de idiomas con más de 10 años de trayectoria en el sur del Huila.
+  imagen: Logo_Eagle_Institute.jpg
+  
+- nombre: Imprimimos Colombia
+  descripcion: Empresa de litografía y otras actividades de impresión.
+  imagen: Logo_Imprimimos.jpg
   
 - nombre: Surcolombiana de Gas S.A. E.S.P.
   descripcion: Empresa de capital público y privado comercializadora y distrbuidora de gas domiciliario principalmente en el sur colombiano.
@@ -51,10 +55,6 @@
   descripcion: Empresa de venta y servicio técnico de computadores y otros equipos electrónicos.
   imagen: Logo_ABC_Insumos.jpg
   website: www.facebook.com/WWW.ABCONLINE.COM.CO/
-
-- nombre: Imprimimos Colombia
-  descripcion: Empresa de litografía y otras actividades de impresión.
-  imagen: Logo_Imprimimos.jpg
 
 - nombre: J3 System Ltda.
   descripcion: Empresa de desarrollo de software con presencia en varios departamentos de Colombia.
