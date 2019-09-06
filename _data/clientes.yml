@@ -11,10 +11,12 @@
 - nombre: EAGLE INSTITUTE S.A.S.
   descripcion: Instituto de idiomas con más de 10 años de trayectoria en el sur del Huila.
   imagen: Logo_Eagle_Institute.jpg
-  
+  website: www.facebook.com/institutoeaglepitalito/
+ 
 - nombre: ENDOTEK LTDA.
   descripcion: Empresa que presta servicios médicos especializados en gastroenterología.
   imagen: Logo_Endotek.png
+  website: www.endotekneiva.com/
   
 - nombre: Imprimimos Colombia
   descripcion: Empresa de litografía y otras actividades de impresión.
