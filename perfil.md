@@ -39,20 +39,21 @@ Actualmente me desempeño de tiempo completo como <strong>asesor jurídico indep
 
 Algunos de los clientes asesorados: 
 
-- ABC Insumos Ltda.
+- <a href="https://www.facebook.com/WWW.ABCONLINE.COM.CO/">ABC Insumos Ltda.</a>
 - <a href="http://www.csmtecnologiasas.com">C.S.M & TECNOLOGÍAS S.A.S.</a>
 - Condominio Campestre Altos de la Pradera (Neiva)
 - <a href="http://www.grupomueve.com/">Grupo Mueve S.A.S.</a>
-- Eagle Institute
+- <a href="https://www.facebook.com/institutoeaglepitalito/">Eagle Institute</a>
+- <a href="https://www.endotekneiva.com">ENDOTEK LTDA.</a>
 - Imprimimos Colombia
 - <a href="http://www.j3systemltda.com">J3 System Ltda.</a>
-- Mangaia Helados
-- Maxim Fishing
-- Siete Veinticuatro (Aplicación móvil de comidas rápidas)
+- <a href="https://www.facebook.com/mangaiahelado/">Mangaia Helados</a>
+- <a href="https://www.maximfishing.com">Maxim Fishing Solutions Provide S.A.S.</a>
+- <a href="https://www.facebook.com/siete24co/">Siete Veinticuatro (Aplicación móvil de comidas rápidas)</a>
 - <a href="http://www.sunnyapp.com">Sunny App S.A.S.</a>
 - <a href="http://www.surgas.com">Surcolombiana de Gas S.A E.S.P - SURGAS S.A. E.S.P.</a>
 - Tecnosoftcol S.A.S.
 - <a href="http://www.urbangreen.com.co">Urban Green S.A.S.</a>
-- Urcosolar S.A.S.
+- <a href="https://www.facebook.com/urcosolar/">Urcosolar S.A.S.</a>
 
 
