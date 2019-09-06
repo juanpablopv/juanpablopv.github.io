@@ -26,25 +26,33 @@ Cursos adicionales en:
   * Propiedad Industrial (Superintendencia de Industria y Comercio).
   * Patentes (Organización Mundial de la Propiedad Intelectual – OMPI).
   * Protección de la Competencia (Superintendencia de Industria y Comercio).
+  * La protección del consumidor en el comercio electrónico (Superintendencia de Industria y Comercio). 
   * Gobernanza de Internet (Internet Society – ISOC).
 
 Nivel avanzado (C1) del idioma inglés y nivel básico del idioma ruso (A1).
 
-Buen conocimiento y manejo de diversas herramientas de software [sistemas operativos GNU/Linux, Android y Microsoft Windows; suites ofimáticas LibreOffice y Microsoft Office; GIMP (editor de imágenes); entre otros].
+Buen conocimiento y habilidades para el manejo de herramientas informáticas, para hablar en público, el trabajo en equipo y desenvolverme en entornos internacionales.
 
-Experiencia en el sector público nacional, como asesor interno en una institución universitaria (propiedad intelectual y derecho informático), como conferencista (propiedad intelectual, derecho informático, software libre y tecnología) y en actividades académicas (grupos de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
+Experiencia en el sector público nacional, en una oficina de abogados, como asesor interno en propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas (grupo de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
 
-Actualmente asesor en asuntos de Derecho Informático y de las Nuevas Tecnologías, Propiedad Intelectual, Derecho Comercial y Derecho Ambiental. Algunas empresas asesoradas: 
-* ABC Insumos Ltda
-* C.S.M & TECNOLOGÍAS S.A.S.
-* Grupo Mueve S.A.S.
-* J3 System Ltda
-* Imprimimos Colombia
-* Inversiones Ortiz Prada S.A.S.
-* Mangaia Helados
-* Siete24 (App)
-* Sunny App S.A.S.
-* Tecnosoftcol S.A.S.
-* Urban Green S.A.S.
-* Urcosolar S.A.S.
+Actualmente me desempeño de tiempo completo como <strong>asesor jurídico independiente</strong> en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, mis dos áreas de especialidad, así como en derecho administrativo, derecho civil, derecho comercial, derechos constitucional y derecho laboral.
+
+Algunos de los clientes asesorados: 
+
+- ABC Insumos Ltda.
+- <a href="http://www.csmtecnologiasas.com">C.S.M & TECNOLOGÍAS S.A.S.</a>
+- Condominio Campestre Altos de la Pradera (Neiva)
+- <a href="http://www.grupomueve.com/">Grupo Mueve S.A.S.</a>
+- Eagle Institute
+- Imprimimos Colombia
+- <a href="http://www.j3systemltda.com">J3 System Ltda.</a>
+- Mangaia Helados
+- Maxim Fishing
+- Siete Veinticuatro (Aplicación móvil de comidas rápidas)
+- <a href="http://www.sunnyapp.com">Sunny App S.A.S.</a>
+- <a href="http://www.surgas.com">Surcolombiana de Gas S.A E.S.P - SURGAS S.A. E.S.P.</a>
+- Tecnosoftcol S.A.S.
+- <a href="http://www.urbangreen.com.co">Urban Green S.A.S.</a>
+- Urcosolar S.A.S.
+
 
