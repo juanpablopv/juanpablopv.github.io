@@ -4,15 +4,16 @@ layout: pagina
 
 # SERVICIOS
 
-Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo lo relativo a Derecho Informático y Propiedad Intelectual, así como asuntos de  <strong> Derecho Administrativo </strong> (defensa en procesos administrativos sancionatorios ambientales, demandas de nulidad, entre otros), <strong> Derecho Civil</strong> (divorcios, procesos de declaración de pertenencia, entre otros), <strong> Derecho Comercial</strong> (contratos comerciales, derecho del consumidor, constitución de sociedades, entre otros), <strong> Derecho Constitucional</strong> (derechos de petición, acciones de tutela contra providencias judiciales, acciones de tutela en general, acciones populares, acciones de grupo, entre otros) y <strong> Derecho Laboral</strong> (contratos laborales, contratos de prestación de servicios, contratos de aprendizaje, reglamento de trabajo, entre otros).
+Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo lo relativo a <strong> Derecho Informático</strong>  y <strong> Propiedad Intelectual</strong> , así como asuntos de  <strong> Derecho Administrativo </strong> (defensa en procesos administrativos sancionatorios ambientales, demandas de nulidad, entre otros), <strong> Derecho Civil</strong> (divorcios, procesos de declaración de pertenencia, entre otros), <strong> Derecho Constitucional</strong> (derechos de petición, acciones de tutela contra providencias judiciales, acciones de tutela en general, acciones populares, acciones de grupo, entre otros) y <strong> Derecho Laboral</strong> (contratos laborales, contratos de prestación de servicios, contratos de aprendizaje, reglamento de trabajo, entre otros).
 
-## DERECHO INFORMÁTICO Y DE LAS NUEVAS TECNOLOGÍAS
+## DERECHO INFORMÁTICO
 ![Derecho Informático](/assets/images/servicios/400derecho_informatico.png)
 - Contratos del sector TIC. Entre otros:
    - Contrato de desarrollo de software.
    - Contrato de servicios de software (soporte, mantenimiento, etcétera.).
    - Contrato de diseño de sitio web.
-   - Contrato de hosting.
+   - Contrato de alojamiento (hosting).
+   - Contrato de servicios en la nube
 - Términos y Condiciones de Uso de sitio web.
 - Comercio Electrónico.
 - Acuerdos de Confidencialidad. Protección de su información confidencial o la de su organización.
@@ -20,16 +21,18 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 - Derecho laboral e Informática. Por ejemplo:
 	 - Uso de herramientas informáticas en el trabajo.
 	 - Teletrabajo.
-- Delitos informáticos.
 - Datos personales.
 	 - Denuncias por violación de las normas de datos personales.
-	 - Registro de bases de datos personales ante la Superintendencia de Industria y Comercio (El 	plazo máximo de registro es el 31 de enero de 2018, de lo contrario se puede hacer acreedor a 	multas de hasta 2000 SMMLV.)
-	 - Manual de Políticas de Datos Personales (Obligatorios para el registro de sus bases de datos personales).
+	 - Registro de bases de datos personales ante la Superintendencia de Industria y Comercio
+	 - Manual de Políticas de Datos Personales 
+	 - Elaboración de otros documentos necesarios para el cumplimiento de las normas de datos personales (avisos de 	    privacidad, cláusulas contractuales, entre otros).
+	 - Capacitación para el adecuado cumplimiento de las normas de datos personales.
 - Nombres de Dominio (Ejemplo: www.miempresa.com).
 	 - Registro de dominios.
 	 - Disputas relativas a estos. Por ejemplo por ciberocupación.
 - Aspectos jurídicos en las Redes Sociales.
 - Gobierno Electrónico.
+- Delitos informáticos.
 - Derecho de las Telecomunicaciones.
 
 ----
@@ -40,6 +43,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 	 - Registro de su marca en Colombia.
 	 - Estudio de antecedentes antes de crear su “marca”.
 	 - Defensa ante oposiciones de terceros a su solicitud de marca.
+	 - Apelaciones ante negaciones de la marca en primera instancia.
 	 - Contratos para licenciar su marca.
 	 - En general, cualquier asunto jurídico relacionado con marcas. 
 - Patentes:
@@ -107,6 +111,7 @@ Capacitaciones y conferencias en cualquiera de mis áreas de trabajo. Entre otra
 - Derechos de autor en internet.
 - Derechos de autor y el sector audiovisual.
 - Derechos de autor y el sector editorial
+- Derechos de autor y la arquitectura
 - Aspectos jurídicos en las redes sociales.
 - Aspectos jurídicos del software libre.
 
