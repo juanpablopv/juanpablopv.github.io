@@ -14,7 +14,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
    - Contrato de diseño de sitio web.
    - Contrato de alojamiento (hosting).
    - Contrato de servicios en la nube
-- Términos y Condiciones de Uso de sitio web.
+- Términos y Condiciones de Uso de aplicaciones y de sitios web.
 - Comercio Electrónico.
 - Acuerdos de Confidencialidad. Protección de su información confidencial o la de su organización.
 - Firma electrónica y firma digital.
@@ -47,9 +47,9 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 	 - Contratos para licenciar su marca.
 	 - En general, cualquier asunto jurídico relacionado con marcas. 
 - Patentes:
-	 - Solicitud de patente en Colombia.
 	 - Búsqueda de antecedentes para la solicitud de una patente.
 	 - Redacción de patentes.
+	 - Solicitud de patente en Colombia.
 	 - Asesoría y acompañamiento en cualquier etapa de la solicitud de su patente.
 	 - Búsqueda de información tecnológica de patentes para determinar el estado de una tecnología.
 	 - En general, cualquier asunto jurídico relacionado con patentes. 
@@ -82,7 +82,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 	 - Secretos empresariales.
 - Software libre y otras obras (canciones, fotos, etc.) bajo licencias libres.
 - Nuevos modelos de negocio bajo enfoques abiertos para sus activos intangibles.
-- Todo tipo de registros y trámites en materia de propiedad intelectual.
+- Todo tipo de registros, trámites y litigio en materia de propiedad intelectual.
 
 ----
   
@@ -94,7 +94,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 	 - Demandas y denuncias por violación de las normas de protección al consumidor.
 	 - Defensa ante demandas y denuncias por violación de las normas de protección al consumidor.
 - Derecho de la Competencia.
-	 - Acciones contra la competencia desleal (actos de desviación de la clientela, actos de descrédito, 	explotación de la reputación ajena, violación de secretos, entre otros)
+	 - Acciones contra la competencia desleal (actos de desviación de la clientela, actos de descrédito, explotación de la reputación ajena, violación de secretos, entre otros)
 	
 ----
 ## Capacitaciones y conferencias
