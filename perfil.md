@@ -34,7 +34,7 @@ Nivel avanzado (C1) del idioma inglés y nivel básico del idioma ruso (A1).
 
 Buen conocimiento y habilidades para el manejo de herramientas informáticas, para hablar en público, el trabajo en equipo y desenvolverme en entornos internacionales.
 
-Experiencia en el sector público nacional, en oficina de abogados, como asesor interno en propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas (grupo de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
+Experiencia en el sector público, como asesor interno de propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas (grupo de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
 
 Actualmente me desempeño de tiempo completo como <strong>abogado litigante</strong> y <strong>asesor jurídico</strong> en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, mis dos áreas de especialidad, así como en asuntos de derecho administrativo, derecho civil, derecho comercial, derechos constitucional y derecho laboral.
 
