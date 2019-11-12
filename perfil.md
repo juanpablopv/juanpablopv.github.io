@@ -16,7 +16,7 @@ _Tesis de grado: Recommendations for the adoption of libre software in the publi
 
 Técnico en Electrónica con énfasis en Sistemas Digitales y Microcontroladores.
 
-Diplomado en Docencia Universitaria.
+Diplomado en Docencia Universitaria (Universidad Surcolombiana - Neiva).
 
 Cursos adicionales en:
 
@@ -27,17 +27,18 @@ Cursos adicionales en:
   * Patentes (Organización Mundial de la Propiedad Intelectual – OMPI).
   * Protección de la Competencia (Superintendencia de Industria y Comercio).
   * La protección del consumidor en el comercio electrónico (Superintendencia de Industria y Comercio). 
+  * Educación para la protección de datos personales de los niños, niñas y adolescentes en la red (Superintendencia de Industria y Comercio).
   * Gobernanza de Internet (Internet Society – ISOC).
 
 Nivel avanzado (C1) del idioma inglés y nivel básico del idioma ruso (A1).
 
 Buen conocimiento y habilidades para el manejo de herramientas informáticas, para hablar en público, el trabajo en equipo y desenvolverme en entornos internacionales.
 
-Experiencia en el sector público nacional, en una oficina de abogados, como asesor interno en propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas (grupo de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
+Experiencia en el sector público nacional, en oficina de abogados, como asesor interno en propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas (grupo de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
 
-Actualmente me desempeño de tiempo completo como <strong>asesor jurídico independiente</strong> en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, mis dos áreas de especialidad, así como en derecho administrativo, derecho civil, derecho comercial, derechos constitucional y derecho laboral.
+Actualmente me desempeño de tiempo completo como <strong>abogado litigante</strong> y <strong>asesor jurídico</strong> en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, mis dos áreas de especialidad, así como en asuntos de derecho administrativo, derecho civil, derecho comercial, derechos constitucional y derecho laboral.
 
-Algunos de los clientes asesorados: 
+Algunos clientes asesorados: 
 
 - <a href="https://www.facebook.com/WWW.ABCONLINE.COM.CO/">ABC Insumos Ltda.</a>
 - <a href="http://www.csmtecnologiasas.com">C.S.M & TECNOLOGÍAS S.A.S.</a>
@@ -55,5 +56,6 @@ Algunos de los clientes asesorados:
 - Tecnosoftcol S.A.S.
 - <a href="http://www.urbangreen.com.co">Urban Green S.A.S.</a>
 - <a href="https://www.facebook.com/urcosolar/">Urcosolar S.A.S.</a>
+- Docentes y directivos docentes del departamento del Huila.
 
 
