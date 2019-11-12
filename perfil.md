@@ -10,7 +10,7 @@ Abogado de la Universidad del Rosario (Bogotá – Colombia).
 
 Especialista en Derecho Informático y de las Nuevas Tecnologías de la Universidad Externado (Bogotá – Colombia).
 
-Magíster en Derecho y Tecnología [Master in Laws (LLM) Law and Technology] de la Universidad de Tilburg (Tilburg – Países Bajos). 
+Magíster en Derecho y Tecnología [_Master in Laws (LLM) Law and Technology_] de la Universidad de Tilburg (Tilburg – Países Bajos). 
 
 _Tesis de grado: Recommendations for the adoption of libre software in the public sector in South America_.
 
@@ -36,7 +36,7 @@ Buen conocimiento y habilidades para el manejo de herramientas informáticas, pa
 
 Experiencia en el sector público, como asesor interno de propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas (grupo de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
 
-Actualmente me desempeño de tiempo completo como <strong>abogado litigante</strong> y <strong>asesor jurídico</strong> en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, mis dos áreas de especialidad, así como en asuntos de derecho administrativo, derecho civil, derecho comercial, derechos constitucional y derecho laboral.
+Actualmente, <strong>abogado litigante</strong> y <strong>asesor jurídico</strong> de tiempo completo en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, sus dos áreas de especialidad, así como en asuntos de derecho administrativo, derecho civil, derecho comercial, derechos constitucional y derecho laboral.
 
 Algunos clientes asesorados: 
 
