@@ -111,6 +111,9 @@ Capacitaciones y conferencias en cualquiera de mis áreas de trabajo. Entre otra
 - Derechos de autor y la arquitectura
 - Aspectos jurídicos en las redes sociales
 - Aspectos jurídicos del software libre
+- Datos personales e instituciones educativas
+- Datos personales e internet
+- Ciencia abierta
 
 ----
 
