@@ -4,14 +4,14 @@ layout: pagina
 
 # SERVICIOS
 
-Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo lo relativo a <strong> Derecho Informático</strong>  y <strong> Propiedad Intelectual</strong> , así como asuntos de  <strong> Derecho Administrativo </strong> (defensa en procesos administrativos sancionatorios ambientales, demandas de nulidad, entre otros), <strong> Derecho Civil</strong> (divorcios, procesos de declaración de pertenencia, entre otros), <strong> Derecho Constitucional</strong> (derechos de petición, acciones de tutela contra providencias judiciales, acciones de tutela en general, acciones populares, acciones de grupo, entre otros) y <strong> Derecho Laboral</strong> (contratos laborales, contratos de prestación de servicios, contratos de aprendizaje, reglamento de trabajo, entre otros).
+Mis asesorías, consultorías y servicios jurídicos en general, abarcan las siguientes áreas: Derecho Informático, Propiedad Intelectual, Derecho Administrativo, Derecho Civil, Derecho Constitucional, Derecho Comercial y Derecho Laboral. En particular lo siguiente: 
 
 ## DERECHO INFORMÁTICO
 ![Derecho Informático](/assets/images/servicios/400derecho_informatico.png)
 - Contratos de nuevas tecnologías. Entre otros:
    - Contrato de desarrollo de software
    - Contrato de servicios de software (soporte, mantenimiento, entre otros).
-   - Contrato de diseño de sitio web
+   - Contrato de diseño y desarrollo de sitio web
    - Contrato de alojamiento (hosting)
    - Contrato de servicios en la nube
 - Términos y Condiciones de Uso de aplicaciones y de sitios web
@@ -22,9 +22,6 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 	 - Manual de Políticas y Procedimientos de Datos Personales 
 	 - Elaboración de otros documentos necesarios para el cumplimiento de la normatividad de datos personales (avisos de 	    privacidad, cláusulas contractuales, entre otros)
 	 - Capacitación para el adecuado cumplimiento de las normas de datos personales
-- Derecho laboral e Informática. Por ejemplo:
-	 - Uso de herramientas informáticas en el trabajo
-	 - Teletrabajo
 - Aspectos jurídicos en las Redes Sociales
 - Derechos fundamentales en internet (libertad de expresión, libertad de prensa, intimidad, habeas data, entre otros)
 - Nombres de Dominio (ejemplo: www.miempresa.com)
@@ -82,7 +79,15 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 - En general, registros, trámites y litigio en materia de propiedad intelectual
 
 ----
-  
+
+## DERECHO ADMINISTRATIVO
+![Derecho Administrativo]
+- Defensa en procesos administrativos sancionatorios ambientales
+- Demandas de Nulidad
+- Demandas de Nulidad y Restablecimiento del Derecho
+- Demandas de Nulidad Electoral
+- Demandas de Reparación Directa
+
 ## DERECHO COMERCIAL
 ![Derecho Comercial](/assets/images/servicios/400derecho_comercial.png)
 - Constitución de Sociedades
@@ -94,10 +99,51 @@ Mis asesorías, consultorías y servicios jurídicos en general, incluyen todo l
 	 - Acciones jurídicas contra la competencia desleal (actos de desviación de la clientela, actos de descrédito, explotación de la reputación ajena, violación de secretos, inducción a la ruptura contractual, entre otros) y defensa jurídica ante estas acciones.
 	
 ----
-## Capacitaciones y conferencias
+
+## DERECHO CIVIL
+![Derecho Civil]
+- Demandas Ejecutivas (cobro de deudas)
+- Demandas de Responsabilidad Civil
+	- Contractual
+	- Extracontractual
+- Divorcios
+	- Por mutuo acuerdo
+	- Contencioso (ante juez)
+- Procesos de Declaración de Pertenencia (Adquisición de la propiedad por posesión)
+- Demandas de Alimentos
+- Sucesiones
+
+----
+
+## DERECHO CONSTITUCIONAL
+![Derecho Constitucional]
+- Derechos de Petición
+- Acciones de Tutela
+	 - Acciones de tutela contra providencias judiciales
+	 - Acciones de tutela contra actos administrativos
+- Acciones Populares
+- Acciones de Grupo
+- Acciones de Cumplimiento
+- Acciones de Inconstitucionalidad
+
+----
+
+## DERECHO LABORAL
+![Derecho Laboral]
+- Contratos Laborales
+- Contratos de Aprendizaje
+- Reglamentos de Trabajo
+- Derecho Laboral e Informática
+	 - Uso de herramientas informáticas en el trabajo
+	 - Teletrabajo
+	 
+- Contratos de Prestación de Servicios*
+----
+
+## CAPACITACIONES Y CONFERENCIAS
 ![Capacitaciones y Conferencias](/assets/images/servicios/300conferencias.png)
 
-Capacitaciones y conferencias en cualquiera de mis áreas de trabajo. Entre otras pueden ser:
+Capacitaciones y conferencias en cualquiera de mis áreas de trabajo. Entre otros temas, estas pueden ser en:
 
 - Propiedad intelectual y sector educativo
 - Propiedad intelectual e investigación
