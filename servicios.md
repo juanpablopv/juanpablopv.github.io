@@ -4,7 +4,7 @@ layout: pagina
 
 # SERVICIOS
 
-Mis asesorías, consultorías y servicios jurídicos en general, abarcan las siguientes áreas: Derecho Informático, Propiedad Intelectual, Derecho Administrativo, Derecho Civil, Derecho Constitucional, Derecho Comercial y Derecho Laboral. En particular lo siguiente: 
+Mis asesorías, consultorías y servicios jurídicos en general, abarcan las siguientes áreas: Derecho Informático, Propiedad Intelectual, Derecho Administrativo, Derecho Civil, Derecho Constitucional, Derecho Comercial y Derecho Laboral. Como se detalla a continuación: 
 
 ## DERECHO INFORMÁTICO
 ![Derecho Informático](/assets/images/servicios/400derecho_informatico.png)
@@ -81,7 +81,6 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 ----
 
 ## DERECHO ADMINISTRATIVO
-![Derecho Administrativo]
 - Defensa en procesos administrativos sancionatorios ambientales
 - Demandas de Nulidad
 - Demandas de Nulidad y Restablecimiento del Derecho
@@ -101,7 +100,6 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 ----
 
 ## DERECHO CIVIL
-![Derecho Civil]
 - Demandas Ejecutivas (cobro de deudas)
 - Demandas de Responsabilidad Civil
 	- Contractual
@@ -116,11 +114,11 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 ----
 
 ## DERECHO CONSTITUCIONAL
-![Derecho Constitucional]
 - Derechos de Petición
 - Acciones de Tutela
 	 - Acciones de tutela contra providencias judiciales
 	 - Acciones de tutela contra actos administrativos
+	 - Acciones de tutela en general (derecho a la salud, petición, educación, debido proceso, entre otros)
 - Acciones Populares
 - Acciones de Grupo
 - Acciones de Cumplimiento
@@ -129,14 +127,12 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 ----
 
 ## DERECHO LABORAL
-![Derecho Laboral]
 - Contratos Laborales
 - Contratos de Aprendizaje
 - Reglamentos de Trabajo
 - Derecho Laboral e Informática
 	 - Uso de herramientas informáticas en el trabajo
 	 - Teletrabajo
-	 
 - Contratos de Prestación de Servicios*
 ----
 
