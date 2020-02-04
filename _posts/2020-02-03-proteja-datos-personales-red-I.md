@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "PROTEJA SUS DATOS PERSONALES EN LA RED (I)"
-date: 2020-02-03 08:00:00 -0500
+title: "Proteja sus Datos Personales en la Red (I)"
+date: 2020-02-02 08:00:00 -0500
 ref: proteja-datos-personales-red-I
 lang: Español
 category: Tecnología
