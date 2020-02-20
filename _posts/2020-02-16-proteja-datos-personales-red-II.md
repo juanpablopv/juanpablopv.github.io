@@ -8,8 +8,9 @@ category: Datos Personales
 author: Juan Pablo
 image: https://live.staticflickr.com/65535/48908552861_24d404a6f8_b.jpg
 excerpt: >
-Debemos reflexionar sobre el valor de nuestros datos personales y cómo los estamos gestionando en la red.
+ Debemos reflexionar sobre el valor de nuestros datos personales y cómo los estamos gestionando en la red.
 ---
+
 Por: Juan Pablo Puentes Vargas
 
 [Periódico La Nación](https://www.lanacion.com.co/) - 16 de febrero de 2020
