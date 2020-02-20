@@ -4,7 +4,7 @@ title: "Proteja sus Datos Personales en la Red (I)"
 date: 2020-02-02 08:00:00 -0500
 ref: proteja-datos-personales-red-I
 lang: Español
-category: Tecnología
+category: Datos Personales
 author: Juan Pablo
 image: https://cdn.pixabay.com/photo/2016/04/13/19/20/binary-1327493_960_720.jpg
 excerpt: >
