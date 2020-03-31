@@ -20,7 +20,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 	 - Denuncias por violación de las normas de datos personales
 	 - Registro de bases de datos personales ante la Superintendencia de Industria y Comercio
 	 - Manual de Políticas y Procedimientos de Datos Personales 
-	 - Elaboración de otros documentos necesarios para el cumplimiento de la normatividad de datos personales (avisos de 	    privacidad, cláusulas contractuales, entre otros)
+	 - Elaboración de otros documentos necesarios para el cumplimiento de la normatividad de datos personales (avisos de privacidad, cláusulas contractuales, entre otros)
 	 - Capacitación para el adecuado cumplimiento de las normas de datos personales
 - Aspectos jurídicos en las Redes Sociales
 - Derechos fundamentales en internet (libertad de expresión, libertad de prensa, intimidad, habeas data, entre otros)
@@ -39,7 +39,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 	 - Viabilidad jurídica para la creación de su marca
 	 - Defensa ante oposiciones de terceros a su solicitud de marca
 	 - Apelación ante negaciones de la marca en primera instancia
-	 - Demandas de nulidad ante el Consejo de Estado por decisiónes de la Superintendencia por asuntos marcarios
+	 - Demandas de nulidad ante el Consejo de Estado por decisiones de la Superintendencia por asuntos marcarios
 	 - Contratos para licenciar su marca
 - Patentes:
 	 - Búsqueda de antecedentes para la solicitud de una patente
@@ -133,7 +133,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 - Derecho Laboral e Informática
 	 - Uso de herramientas informáticas en el trabajo
 	 - Teletrabajo
-- Contratos de Prestación de Servicios*
+- Contratos de Prestación de Servicios *
 ----
 
 ## CAPACITACIONES Y CONFERENCIAS
