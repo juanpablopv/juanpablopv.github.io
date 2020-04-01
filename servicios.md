@@ -102,14 +102,15 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 ## DERECHO CIVIL
 - Demandas Ejecutivas (cobro de deudas)
 - Demandas de Responsabilidad Civil
-	- Contractual
+	- Contractual (incumplimientos de contratos)
 	- Extracontractual
 - Divorcios
 	- Por mutuo acuerdo
 	- Contencioso (ante juez)
-- Procesos de Declaración de Pertenencia (Adquisición de la propiedad por posesión)
+- Procesos de Declaración de Pertenencia (Adquisición de la propiedad de un bien por posesión)
 - Demandas de Alimentos
 - Sucesiones
+- Contratos de Prestación de Servicios
 
 ----
 
@@ -133,7 +134,6 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 - Derecho Laboral e Informática
 	 - Uso de herramientas informáticas en el trabajo
 	 - Teletrabajo
-- Contratos de Prestación de Servicios *
 ----
 
 ## CAPACITACIONES Y CONFERENCIAS
