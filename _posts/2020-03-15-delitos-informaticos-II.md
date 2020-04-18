@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Delitos Informáticos II"
-date: 2020-03-02 08:00:00 -0500
+date: 2020-03-15 08:00:00 -0500
 ref: delitos-informaticos-II
 lang: Español
 category: Tecnología y Delitos
