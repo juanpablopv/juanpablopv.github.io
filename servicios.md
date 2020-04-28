@@ -134,6 +134,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 - Derecho Laboral e Informática
 	 - Uso de herramientas informáticas en el trabajo
 	 - Teletrabajo
+	 
 ----
 
 ## CAPACITACIONES Y CONFERENCIAS
