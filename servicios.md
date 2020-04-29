@@ -41,6 +41,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 	 - Apelación ante negaciones de la marca en primera instancia
 	 - Vigilancia marcaria
 	 - Demandas de nulidad ante el Consejo de Estado por decisiones de la Superintendencia por asuntos marcarios
+	 - Demandas por infracciones marcarias
 	 - Contratos para licenciar su marca
 - Patentes:
 	 - Búsqueda de antecedentes para la solicitud de una patente
