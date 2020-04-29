@@ -39,6 +39,7 @@ Mis asesorías, consultorías y servicios jurídicos en general, abarcan las sig
 	 - Viabilidad jurídica para la creación de su marca
 	 - Defensa ante oposiciones de terceros a su solicitud de marca
 	 - Apelación ante negaciones de la marca en primera instancia
+	 - Vigilancia marcaria
 	 - Demandas de nulidad ante el Consejo de Estado por decisiones de la Superintendencia por asuntos marcarios
 	 - Contratos para licenciar su marca
 - Patentes:
