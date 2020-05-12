@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Software Libre Como Alternativa al Software "Pirata""
+title: "Software Libre Como Alternativa al Software Pirata"
 date: 2020-05-10 08:00:00 -0500
 ref: software-libre-alternativa-software-pirata
 lang: Español
