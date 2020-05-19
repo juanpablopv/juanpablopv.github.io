@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "El “coronavirus” puede afectar su computador o celular (I))"
+title: "El “coronavirus” puede afectar su computador o celular (I)"
 date: 2020-04-19 08:00:00 -0500
 ref: coronavirus-computador-celular
 lang: Español
