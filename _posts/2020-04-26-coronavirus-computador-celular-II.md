@@ -6,10 +6,9 @@ ref: coronavirus-computador-celular-II
 lang: Español
 category: Tecnología y Delitos
 author: Juan Pablo
-image:https://cdn.pixabay.com/photo/2020/03/17/04/19/corona-4938929_960_720.jpg
+image: https://cdn.pixabay.com/photo/2020/03/17/04/19/corona-4938929_960_720.jpg
 excerpt: >
  No compartamos algo si no estamos seguros de su veracidad. Casi todas las cadenas de Whatsapp son falsas. Reportemos las noticias falsas al CAI Virtual caivirtual.policia.gov.co Ojo, crear noticias falsas lo puede llevar hasta la cárcel.
- 
 ---
 
 Por: Juan Pablo Puentes Vargas
