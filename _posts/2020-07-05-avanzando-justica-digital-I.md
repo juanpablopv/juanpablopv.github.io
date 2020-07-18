@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CAMINO A LA JUSTICIA DIGITAL"
-date: 2020-07-04 08:00:00 -0500
+date: 2020-07-05 08:00:00 -0500
 ref: camino-justica-digital
 lang: Español
 category: Justicia Digital
