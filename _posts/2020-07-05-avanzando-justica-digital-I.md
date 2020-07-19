@@ -17,7 +17,7 @@ Por: Juan Pablo Puentes Vargas
 
 La actual pandemia ha generado cambios positivos en en algunos aspectos, uno de ellos la justicia. Nuestra rama judicial no se ha caracterizado por ser la más innovadora en materia tecnológica. Aún cosas que en otros campos, incluso del mismo Estado, ya se venían haciendo, en la rama judicial todavía no. Esto responde a muchos factores, desde el conservadurismo que suele caracterizar al derecho, hasta el miedo o el desconocimiento de la tecnología. En cualquier caso, lo cierto es que la situación está empezando a traer a marchas forzadas a la prometida justicia digital.
 
-![Artículo 05 julio 2020](/assets/images/justicia_digital.png){: .img-responsive }
+![Artículo 05 julio 2020](https://i2.wp.com/www.lanacion.com.co/wp-content/uploads/2020/07/justica-digital.jpg?w=700&ssl=1){: .img-responsive }
 Imagen modificada a partir de una imagen de Pradip Kumar Rout.
 
 Lo primero que hay que decir es que la incorporación de las nuevas tecnologías a la justicia tiene un fundamento ya antiguo. Desde 1996, la Ley 270 (Ley Estatutaria de la Administración de Justicia) nos dice (artículo 95) que se debe “propender por la incorporación de tecnología de avanzada al servicio de la administración de justicia”. Normas posteriores como la Ley 527 de 1999 (validez de los documentos y firmas digitales), el Código de Procedimiento Administrativo y de lo Contencioso Administrativo (2011) o el Código General del Proceso (2012), han reforzado o ayudado esta disposición de 1996. 
