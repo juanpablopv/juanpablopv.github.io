@@ -13,7 +13,7 @@ excerpt: >
 
 Por: Juan Pablo Puentes Vargas
 
-[Periódico La Nación](https://www.lanacion.com.co/) - 05 de julio de 2020
+[Periódico La Nación](https://www.lanacion.com.co/camino-a-la-justicia-digital/) - 05 de julio de 2020
 
 La actual pandemia ha generado cambios positivos en en algunos aspectos, uno de ellos la justicia. Nuestra rama judicial no se ha caracterizado por ser la más innovadora en materia tecnológica. Aún cosas que en otros campos, incluso del mismo Estado, ya se venían haciendo, en la rama judicial todavía no. Esto responde a muchos factores, desde el conservadurismo que suele caracterizar al derecho, hasta el miedo o el desconocimiento de la tecnología. En cualquier caso, lo cierto es que la situación está empezando a traer a marchas forzadas a la prometida justicia digital.
 
