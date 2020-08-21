@@ -13,7 +13,7 @@ excerpt: >
 
 Por: Juan Pablo Puentes Vargas
 
-[Periódico La Nación](https://www.lanacion.com.co/) - 19 de julio de 2020
+[Periódico La Nación](https://www.lanacion.com.co/avanzando-hacia-la-justicia-digital-i/) - 19 de julio de 2020
 
 En el anterior artículo (http://www.juanpablo.co/justicia%20digital/2020/07/05/avanzando-justica-digital-I/) nos referimos a los antecedentes normativos y a algunas experiencias exitosas de despachos judiciales colombianos que han venido avanzado hacia la justicia digital desde hace ya varios años. En este y el siguiente artículo, dada la extensión del tema, nos referiremos a las recientes medidas tomadas en materia de justicia digital, en particular al Decreto Legislativo 806 de 2020 con el cual se adoptaron “medidas para implementar las tecnologías de la información y las comunicaciones en las actuaciones judiciales, agilizar los procesos judiciales y flexibilizar la atención a los usuarios del servicio de la justicia”.
 
