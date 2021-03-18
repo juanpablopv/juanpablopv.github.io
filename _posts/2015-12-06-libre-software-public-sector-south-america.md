@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recommendations for the adoption of libre software in the public sector in South America"
+title: "Recomendaciones para la adopción del software libre en el sector público en Sudamérica"
 date: 2015-12-06 08:00:00 -0500
 ref: Recommendations-libre-software
 lang: Español
@@ -8,7 +8,7 @@ category: Tecnología Libre
 author: Juan Pablo
 image: https://www.shorttermprograms.com/images/cache/600_by_314/uploads/institution-logos/tilburg-university.png
 excerpt: >
- Esta fue la tesis de mi maestría en Derecho y Tecnología en la Universidad de Tilburg (2014-2015). Está en ingles pero a continuación reproduzco un resumen. Busca contribuir al debate sobre la implementación del software libre en el sector público y en particular busca hacer algunos aportes para una mejor implementación.
+ Esta fue la tesis de mi maestría en Derecho y Tecnología en la Universidad de Tilburg (2014-2015). Está en ingles pero a continuación reproduzco un corto resumen en español. Con esta tesis buscaba contribuir al debate sobre la implementación del software libre en el sector público y en particular hacer algunos aportes para una mejor implementación.
 ---
 
 Abajo podrán encontrar el texto completo de mi tesis de maestría en Derecho y Tecnología en la [Universidad de Tilburg](https://es.wikipedia.org/wiki/Universidad_de_Tilburg) (2014-2015). Está en ingles pero a continuación reproduzco un corto resumen en español. Con esta tesis buscaba contribuir al debate sobre la implementación del software libre en el sector público y en particular hacer algunos aportes para una mejor implementación. Por supuesto esta tesis es susceptible de mejora, y en consecuencia, recibo con gusto comentarios y críticas constructivas (Los recibo con gusto al correo jp@juanpablo.co). Espero algún día poder contribuir directamente en la práctica a la adopción e implementación del software libre en el estado colombiano y en el resto del sector público de Latinoamérica.
@@ -30,6 +30,7 @@ En conclusión, la adopción de software libre en el sector público es un paso 
 <p align="center"><b>———————–ENGLISH———————–</b></p>
 This was the thesis of my LLM in Law and Technology at Tilburg University. It seeks to contribute to a better implementation of libre software in the public sector, especially in Latin America. This work is far from perfect and it is susceptible of improvement. Therefore, I welcome comments and constructive criticism not only about this thesis in particular but the topic in general (e-mail jp@juanpablo.co). One day I hope to directly contribute in practice to implement libre software in the Colombian government and in the rest of Latin America.
 <br>
+
 
 <center><iframe src="//www.slideshare.net/slideshow/embed_code/key/FtMqkXIo1MAG8O" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </center><p>
 
