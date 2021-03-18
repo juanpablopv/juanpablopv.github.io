@@ -29,7 +29,7 @@ En conclusión, la adopción de software libre en el sector público es un paso 
 
 This was the thesis of my LLM in Law and Technology at Tilburg University. It seeks to contribute to a better implementation of libre software in the public sector, especially in Latin America. This work is far from perfect and it is susceptible of improvement. Therefore, I welcome comments and constructive criticism not only about this thesis in particular but the topic in general (e-mail jp@juanpablo.co). One day I hope to directly contribute in practice to implement libre software in the Colombian government and in the rest of Latin America.
 
-<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/FtMqkXIo1MAG8O" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </center>
+<center><iframe src="//www.slideshare.net/slideshow/embed_code/key/FtMqkXIo1MAG8O" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> </center><p>
 
 This work is dedicated to the libre software community and specially to those who believe that libre knowledge is a tool for social change, for a better world!
 
