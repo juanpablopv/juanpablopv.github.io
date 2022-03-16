@@ -67,27 +67,28 @@ Algunos clientes asesorados:
 
 Dentro de las varias capacitaciones, charlas y conferencias, en diferentes lugares de Colombia, están entre otras:
 
-- FLISOL (Festival Latinoamericano de Instalación de Software Libre) de Neiva organizado vía virtual por la Universidad Antonio Nariño (16 de mayo 2020). <br>
+- FLISOL (Festival Latinoamericano de Instalación de Software Libre) de Neiva organizado vía virtual por la Universidad Antonio Nariño (16 de mayo 2020).
 Conferencia: <b>* Licencias de Software Libre.</b>
 
 - Conferencia virtual <b>“Cómo crear y proteger su marca”</b>, para la CUN - Corporación Unificada Nacional de Educación Superior (1 de mayo de 2020).
 
-- Semana Institucional de la Institución Educativa Técnico Superior de Neiva (Octubre 2019). </br>
-Conferencias: </br> <b>* Propiedad Intelectual</br>
-		            * Software Libre</br>
-		            * Riesgos de Internet</b></br>
+- Semana Institucional de la Institución Educativa Técnico Superior de Neiva (Octubre 2019). 
+Conferencias: <b>
+	* Propiedad Intelectual
+	* Software Libre</br>
+        * Riesgos de Internet</b>
 
 - Conferencia <b>“Propiedad Intelectual y Arquitectura”</b> para la Sociedad Colombiana de Arquitectos (seccional Neiva) en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019).
 
-- Software Freedom Day 2019 en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019). </br>
+- Software Freedom Day 2019 en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019).  
 Conferencia: <b>* Protección Jurídica del Software en Colombia.</b>
 
 - FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Neiva de la Universidad Antonio Nariño (Abril 2016)</br>
-Conferencias:</br> <b> * Aspectos Jurídicos del Software Libre</br>
-		             * Cultura Libre para una Sociedad Libre </br>
-		             * Soluciones de Software Libre y Casos de Éxito</b></br>
+Conferencias: <b> * Aspectos Jurídicos del Software Libre
+		             * Cultura Libre para una Sociedad Libre 
+		             * Soluciones de Software Libre y Casos de Éxito</b>
 
-- FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Manizales de la Universidad Nacional (Mayo 2014).</br>
+- FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Manizales de la Universidad Nacional (Mayo 2014).
 Conferencia: <b>* “Ley Lleras”, el Debate Continua.</b>
 
 - Foro <b>“La influencia de los medios en los imaginarios sociales y el impacto de la política en el desarrollo sostenible del país”</b> en la Institución Universitaria Latina UNILATINA (Mayo 2014).
