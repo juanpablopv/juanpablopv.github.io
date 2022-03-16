@@ -68,38 +68,39 @@ Algunos clientes asesorados:
 Dentro de las varias capacitaciones, charlas y conferencias, en diferentes lugares de Colombia, están entre otras:
 
 - FLISOL (Festival Latinoamericano de Instalación de Software Libre) de Neiva organizado vía virtual por la Universidad Antonio Nariño (16 de mayo 2020).
-Conferencia: <b>
-	* Licencias de Software Libre.</b>
+Conferencia: 
+	* **Licencias de Software Libre.**
 
 - CUN - Corporación Unificada Nacional de Educación Superior (1 de mayo de 2020). Conferencia virtual:
-	* <b>Cómo crear y proteger su marca</b>
+	* **Cómo crear y proteger su marca**
 
 - Semana Institucional de la Institución Educativa Técnico Superior de Neiva (Octubre 2019). 
-Conferencias: <b>
-	* Propiedad Intelectual
-	* Software Libre
-	* Riesgos de Internet </b>
+Conferencias: 
+	* **Propiedad Intelectual**
+	* **Software Libre**
+	* **Riesgos de Internet**
 
 - Sociedad Colombiana de Arquitectos (seccional Neiva) en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019). 
-- Conferencia:<b>
-	- Propiedad Intelectual y Arquitectura </b>
+Conferencia:
+	- **Propiedad Intelectual y Arquitectura**
 
-- Software Freedom Day 2019 en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019). Conferencia: 
-	*<b>Protección Jurídica del Software en Colombia.</b>
+- Software Freedom Day 2019 en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019). 
+Conferencia: 
+	* **Protección Jurídica del Software en Colombia.**
 
 - FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Neiva de la Universidad Antonio Nariño (Abril 2016). 
-Conferencias: <b>
-	* Aspectos Jurídicos del Software Libre
-	* Cultura Libre para una Sociedad Libre 
-	* Soluciones de Software Libre y Casos de Éxito </b>
+Conferencias: 
+	* **Aspectos Jurídicos del Software Libre**
+	* **Cultura Libre para una Sociedad Libre** 
+	* **Soluciones de Software Libre y Casos de Éxito**
 
 - FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Manizales de la Universidad Nacional (Mayo 2014).
-Conferencia: <b>
-	* "Ley Lleras”, el Debate Continua.</b>
+Conferencia: 
+	* **"Ley Lleras”, el Debate Continua.**
 
-- Institución Universitaria Latina UNILATINA (Mayo 2014). Participante del foro: <b>
-	* La influencia de los medios en los imaginarios sociales y el impacto de la política en el desarrollo sostenible del país </b> 
+- Institución Universitaria Latina UNILATINA (Mayo 2014). Participante del foro: 
+	* **La influencia de los medios en los imaginarios sociales y el impacto de la política en el desarrollo sostenible del país** 
 
 - “II Jornada de Software y Cultura Libre” en la Universidad de Cundinamarca sede Fusagasugá (Abril 2012).
-Conferencia: <b>
-	* Propiedad Intelectual, Derechos de Autor y Libertades Ciudadanas.</b>
+Conferencia: 
+	* **Propiedad Intelectual, Derechos de Autor y Libertades Ciudadanas.**
