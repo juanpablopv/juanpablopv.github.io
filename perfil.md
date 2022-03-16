@@ -4,7 +4,7 @@ layout: pagina
 
 # Perfil
 
-![Imagen Perfil]({{ "/assets/images/perfil.jpg" | relative_url }}){: .img-responsive }
+![Imagen Perfil]({{ "/assets/images/2020_JPPV.jpeg" | relative_url }}){: .img-responsive }
 
 Abogado de la Universidad del Rosario (Bogotá – Colombia).
 
@@ -31,7 +31,7 @@ Cursos adicionales en:
   * La protección del consumidor en el comercio electrónico (Superintendencia de Industria y Comercio). 
   * Educación para la protección de datos personales de los niños, niñas y adolescentes en la red (Superintendencia de Industria y Comercio).
   * Gobernanza de Internet (Internet Society – ISOC).
-  * Protección de Datos y Accountability.
+  * Protección de Datos y *Accountability*.
   
 Nivel avanzado (C1) del idioma inglés y nivel básico del idioma ruso (A1).
 
@@ -68,30 +68,38 @@ Algunos clientes asesorados:
 Dentro de las varias capacitaciones, charlas y conferencias, en diferentes lugares de Colombia, están entre otras:
 
 - FLISOL (Festival Latinoamericano de Instalación de Software Libre) de Neiva organizado vía virtual por la Universidad Antonio Nariño (16 de mayo 2020).
-Conferencia: <b>* Licencias de Software Libre.</b>
+Conferencia: <b>
+	* Licencias de Software Libre.</b>
 
-- Conferencia virtual <b>“Cómo crear y proteger su marca”</b>, para la CUN - Corporación Unificada Nacional de Educación Superior (1 de mayo de 2020).
+- CUN - Corporación Unificada Nacional de Educación Superior (1 de mayo de 2020). Conferencia virtual:
+	* <b>Cómo crear y proteger su marca</b>
 
 - Semana Institucional de la Institución Educativa Técnico Superior de Neiva (Octubre 2019). 
 Conferencias: <b>
 	* Propiedad Intelectual
-	* Software Libre</br>
-        * Riesgos de Internet</b>
+	* Software Libre
+	* Riesgos de Internet </b>
 
-- Conferencia <b>“Propiedad Intelectual y Arquitectura”</b> para la Sociedad Colombiana de Arquitectos (seccional Neiva) en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019).
+- Sociedad Colombiana de Arquitectos (seccional Neiva) en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019). 
+- Conferencia:<b>
+	- Propiedad Intelectual y Arquitectura </b>
 
-- Software Freedom Day 2019 en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019).  
-Conferencia: <b>* Protección Jurídica del Software en Colombia.</b>
+- Software Freedom Day 2019 en la sede de Neiva de la Universidad Antonio Nariño (Septiembre 2019). Conferencia: 
+	*<b>Protección Jurídica del Software en Colombia.</b>
 
-- FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Neiva de la Universidad Antonio Nariño (Abril 2016)</br>
-Conferencias: <b> * Aspectos Jurídicos del Software Libre
-		             * Cultura Libre para una Sociedad Libre 
-		             * Soluciones de Software Libre y Casos de Éxito</b>
+- FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Neiva de la Universidad Antonio Nariño (Abril 2016). 
+Conferencias: <b>
+	* Aspectos Jurídicos del Software Libre
+	* Cultura Libre para una Sociedad Libre 
+	* Soluciones de Software Libre y Casos de Éxito </b>
 
 - FLISOL (Festival Latinoamericano de Instalación de Software Libre) en la sede de Manizales de la Universidad Nacional (Mayo 2014).
-Conferencia: <b>* “Ley Lleras”, el Debate Continua.</b>
+Conferencia: <b>
+	* "Ley Lleras”, el Debate Continua.</b>
 
-- Foro <b>“La influencia de los medios en los imaginarios sociales y el impacto de la política en el desarrollo sostenible del país”</b> en la Institución Universitaria Latina UNILATINA (Mayo 2014).
+- Institución Universitaria Latina UNILATINA (Mayo 2014). Participante del foro: <b>
+	* La influencia de los medios en los imaginarios sociales y el impacto de la política en el desarrollo sostenible del país </b> 
 
-- “II Jornada de Software y Cultura Libre” en la Universidad de Cundinamarca sede Fusagasugá (Abril 2012).</br>
-Conferencia: <b>* Propiedad Intelectual, Derechos de Autor y Libertades Ciudadanas.</b>
+- “II Jornada de Software y Cultura Libre” en la Universidad de Cundinamarca sede Fusagasugá (Abril 2012).
+Conferencia: <b>
+	* Propiedad Intelectual, Derechos de Autor y Libertades Ciudadanas.</b>
