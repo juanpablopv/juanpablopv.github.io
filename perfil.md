@@ -47,6 +47,7 @@ Algunos clientes asesorados:
 - <a href="http://www.csmtecnologiasas.com">C.S.M & TECNOLOGÍAS S.A.S.</a>
 - Condominio Campestre Altos de la Pradera (Neiva)
 - <a href="http://www.grupomueve.com/">Grupo Mueve S.A.S.</a>
+- Edificio Palomar De Los Tejares (Bogotá D.C.)
 - <a href="https://www.facebook.com/institutoeaglepitalito/">Eagle Institute</a>
 - <a href="https://www.endotekneiva.com">ENDOTEK LTDA.</a>
 - Imprimimos Colombia
@@ -66,13 +67,13 @@ Algunos clientes asesorados:
 
 Dentro de las varias capacitaciones, charlas y conferencias, en diferentes lugares de Colombia, están entre otras:
 
-- FLISOL (Festival Latinoamericano de Instalación de Software Libre) de Neiva organizado vía virtual por la Universidad Antonio Nariño (16 de mayo 2020).</br>
+- FLISOL (Festival Latinoamericano de Instalación de Software Libre) de Neiva organizado vía virtual por la Universidad Antonio Nariño (16 de mayo 2020). <br>
 Conferencia: <b>* Licencias de Software Libre.</b>
 
 - Conferencia virtual <b>“Cómo crear y proteger su marca”</b>, para la CUN - Corporación Unificada Nacional de Educación Superior (1 de mayo de 2020).
 
 - Semana Institucional de la Institución Educativa Técnico Superior de Neiva (Octubre 2019). </br>
-Conferencias: </br><b>* Propiedad Intelectual</br>
+Conferencias: </br> <b>* Propiedad Intelectual</br>
 		            * Software Libre</br>
 		            * Riesgos de Internet</b></br>
 
