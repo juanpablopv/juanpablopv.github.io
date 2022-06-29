@@ -67,6 +67,10 @@ Algunos clientes asesorados:
 
 Dentro de las varias capacitaciones, charlas y conferencias, en diferentes lugares de Colombia, están entre otras:
 
+- Reunión de la Asociación de Directivos Docentes del departamento del Huila (19 de febrero de 2021).
+Conferencia: 
+	* **Datos Personales e Instituciones Educativas.**
+	
 - FLISOL (Festival Latinoamericano de Instalación de Software Libre) de Neiva organizado vía virtual por la Universidad Antonio Nariño (16 de mayo 2020).
 Conferencia: 
 	* **Licencias de Software Libre.**
