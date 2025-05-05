@@ -16,30 +16,31 @@ _Tesis de grado: Recommendations for the adoption of libre software in the publi
 
 Técnico en Electrónica con énfasis en Sistemas Digitales y Microcontroladores.
 
-Diplomado en Docencia Universitaria (Universidad Surcolombiana - Neiva).
-
-Diplomado en Derecho Societario (Universidad Javeriana - Bogotá).
-
-Cursos adicionales en:
+Diplomados y cursos adicionales en:
 
   * Gestión de la Propiedad Intelectual (Superintendencia de Industria y Comercio).
   * Propiedad Intelectual y Comercio Electrónico (Organización Mundial de la Propiedad Intelectual – OMPI).
   * Propiedad Intelectual y el Sector Agroindustrial (Superintendencia de Industria y Comercio).
   * Propiedad Industrial (Superintendencia de Industria y Comercio).
+  * Marcas Colectivas, de Certificación y Denominación de Origen (Superintendencia de Industria y Comercio).
   * Patentes (Organización Mundial de la Propiedad Intelectual – OMPI).
   * Protección de la Competencia (Superintendencia de Industria y Comercio).
   * La protección del consumidor en el comercio electrónico (Superintendencia de Industria y Comercio). 
   * Educación para la protección de datos personales de los niños, niñas y adolescentes en la red (Superintendencia de Industria y Comercio).
   * Gobernanza de Internet (Internet Society – ISOC).
-  * Protección de Datos y *Accountability*.
+  * Protección de Datos y *Accountability* (Universidad de los Andes - Bogotá).
+  * Derecho Societario (Universidad Javeriana - Bogotá).
+  * Actualización en Regulación de Energía Eléctrica (Universidad Externado - Bogotá).
+  * Formulación de proyectos basado en el nuevo sistema general de regalías (Uniminuto - Neiva)
+  * Docencia Universitaria (Universidad Surcolombiana - Neiva).
   
-Nivel avanzado (C1) del idioma inglés y nivel básico del idioma ruso (A1).
+Nivel avanzado (C1) del idioma inglés y nivel básico del idioma ruso (A2).
 
-Buen conocimiento y habilidades para el manejo de herramientas informáticas, para hablar en público, el trabajo en equipo y desenvolverme en entornos internacionales.
+Habilidades para el manejo de herramientas informáticas, hablar en público, el trabajo en equipo y desenvolverme en entornos internacionales.
 
-Experiencia en el sector público, como asesor interno de propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas (grupo de investigación, participación en encuentros de investigación, organización de congresos de investigación, entre otros).
+Experiencia en el sector público, como asesor interno de propiedad intelectual en una institución universitaria, como conferencista y en actividades académicas.
 
-Actualmente, <strong>abogado litigante</strong> y <strong>asesor jurídico</strong> en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, sus dos áreas de especialidad, así como en asuntos de derecho administrativo, derecho civil, derecho comercial, derechos constitucional y derecho laboral.
+Actualmente, <strong>asesor jurídico</strong> en asuntos de <strong>derecho informático</strong> y <strong>propiedad intelectual</strong>, y desde 2023 <strong>líder jurídico y de innovación</strong> de <a href="http://www.sunnyapp.com">Sunny App S.A.S.</a>, una de las principales empresas de energía solar en Colombia.
 
 Algunos clientes asesorados: 
 
